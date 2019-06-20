@@ -3,6 +3,7 @@ layout: page
 title: Awards
 description: Award details.
 priority: 6
+invisible: true
 
 awards: ['Best Paper', 'Best Student Paper', 'Best Systems Paper']
 status: ['Winner', 'Finalist']

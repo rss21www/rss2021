@@ -5,6 +5,9 @@ description: Overview of the program.
 priority: 10
 ---
 
+The overview of the conference will be detailed sometime in the following months.
+
+
 {% comment %}
 <b>Jump to:</b>
 

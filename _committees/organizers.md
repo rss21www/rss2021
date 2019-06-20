@@ -6,45 +6,28 @@ description: Organizing team.
 <div>
     <div class="row text-center">
             <b>Program Chair</b><br>
-            <a href="http://verifiablerobotics.com/">Hadas Kress-Gazit</a><br>
-            <i>Cornell</i><br>
+            <a href="http://www.centropiaggio.unipi.it/~bicchi">Antonio Bicchi</a><br>
+            <i>University of Pisa</i><br>
             <br>
             <b>General Chair</b><br>
-            <a href="http://www.cs.cmu.edu/~siddh/">Siddhartha Srinivasa</a><br>
-            <i>University of Washington</i><br>
+            <a href="http://ipvs.informatik.uni-stuttgart.de/mlr/marc/index.html">Marc Toussaint</a><br>
+            <i>University of Stuttgart</i><br>
             <br>
             <b>Local Arrangements Chair</b><br>
-            <a href="http://nmichael.frc.ri.cmu.edu/" >Nathan Michael</a><br>
-            <i>CMU</i><br>
+            <a href="https://eecs.oregonstate.edu/people/adams-julie" >Julie A. Adams</a><br>
+            <i>Oregon State University</i><br>
+			<a href="https://mime.oregonstate.edu/people/smart" >Bill Smart</a><br>
+            <i>Oregon State University</i><br>
             <br>
-            <b>Publicity Chair</b><br>
-            <a href="http://www.robots.ox.ac.uk/~mfallon/" >Maurice Fallon</a><br>
-            <i>Oxford</i><br>
-            <br>
-            <b>Workshop Chairs</b><br>
-            <a href="https://am.is.tuebingen.mpg.de/person/jbohg">Jeannette Bohg</a><br>
-            <i>Stanford</i><br>
-            <a href="https://www.csee.umbc.edu/~cmat/">Cynthia Matuszek</a><br>
-            <i>University of Maryland Baltimore County</i><br>
-            <br>
-            <b>Presentation Chairs</b><br>
-            <a href="http://prorok.me/">Amanda Prorok</a><br>
-            <i>Cambridge</i><br>
-            <a href="http://people.csail.mit.edu/camato/">Christopher Amato</a><br>
-            <i>Northeastern</i><br>
-            <br>
-            <b>Publication Chairs</b><br>
-            <a href="http://www.ece.rochester.edu/people/faculty/howard_tom/">Tom Howard</a><br>
-            <i>University of Rochester</i><br>
-            <a href="http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=409">Nikolay Atanasov</a><br>
-            <i>UCSD</i><br>
+            
             <br>
             <b>Web Chairs</b><br>
-            <a href="http://wtabib.com/">Wennie Tabib</a><br>
-            <i>CMU</i><br>
+            <a href="https://scholar.google.com/citations?user=PIn36_wAAAAJ&hl=en">Jamison Heard</a><br>
+            <i>Vanderbilt University</i><br>
             <br>
     </div>
 
+{% comment %}
     <div id="area-chairs" class="row text-center">
         <b>Area Chairs</b><br>
 
@@ -62,5 +45,5 @@ description: Organizing team.
     {% endfor %}
 
     </div>
-
+{% endcomment %}
 </div>

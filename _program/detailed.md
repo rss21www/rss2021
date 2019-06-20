@@ -3,6 +3,7 @@ layout: page
 title: Technical Program
 description: Detailed schedule of the program.
 priority: 9
+invisible: true
 ---
 
 {% comment %}

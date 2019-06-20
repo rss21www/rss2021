@@ -1,8 +1,9 @@
----
+﻿---
 layout: page
 title: Invited Talks
 description: Invited talk abstracts and speaker bios.
 priority: 8
+invisible: true
 ---
 
 {% comment %}

@@ -5,6 +5,22 @@ description: The awesome place we're holding our conference.
 priority: 9
 ---
 
+# Main Conference
+The conference will be held at Oregon State University (OSU). The conference's primary events will be held in Austin Auditorium: 
+
+ <img src="{{ site.baseurl }}/images/osu_auditorium.jpg"
+       alt="OSU Austin Auditorium" width = "400" /> 
+
+
+# Kelley Engineering Center
+ <img src="{{ site.baseurl }}/images/osu_kelley_poster_session.jpg"
+       alt="OSU Kelley Engineering Center" width = "400"/> 
+
+# OSU Robotics Lab
+<img src="{{ site.baseurl }}/images/osu_robotics_lab.jpg"
+       alt="OSU Robotics Lab" width = "400" />  
+
+
 
 {% comment %}
 The conference will be held at the [Kresge Auditorium](https://en.wikipedia.org/wiki/Kresge_Auditorium)

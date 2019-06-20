@@ -1,16 +1,17 @@
----
+﻿---
 layout: page
 title: Families@RSS
 invisible: false
 ---
 
-{% comment %}
+
 Our mission is to support members of the RSS community with children in their
 lives and enable their increased participation in RSS. RSS is committed to
 facilitating the participation in the conference by parents and families. We
 recognize that it can be tough to balance professional travel with kids, and we
 want to offer families options to make things work.
 
+{% comment %}
 #### Caregivers and Children
 
 For families who bring their children along with their own caregiver, Boston is

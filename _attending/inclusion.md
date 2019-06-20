@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Inclusion@RSS
+invisible: true
 ---
 
 {% comment %}

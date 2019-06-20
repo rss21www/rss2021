@@ -2,6 +2,7 @@
 layout: page
 title: Post-RSS Survey
 permalink: /survey/
+invisible: true
 
 redirect_to: https://cornell.qualtrics.com/jfe/form/SV_0i8pWkBCWGu57al
 ---

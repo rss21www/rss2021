@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
 title: Call for Papers
 description: Paper submission guidelines.
-invisible: false
+invisible: true
 ---
 The 2018 {{site.title}} Conference will bring together researchers working on
 all aspects of robotics including scientific foundations of robotics, robotics

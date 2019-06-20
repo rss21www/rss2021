@@ -5,6 +5,8 @@ description: Fun things to do at the conference.
 priority: 10
 ---
 
+The conference is located in [Corvallis](https://www.visitcorvallis.com/), Oregon. 
+
 {% comment %}
 The conference is located in [Cambridge](http://www.cambridgeusa.org), Massachusetts, in the greater [Boston area](http://www.visitboston.org).
 

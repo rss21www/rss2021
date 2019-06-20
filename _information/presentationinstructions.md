@@ -3,6 +3,7 @@ layout: page
 title: Presentation Instructions
 permalink: /presentationinstructions/
 priority: 9
+invisible: true
 ---
 
 {% comment %}

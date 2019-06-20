@@ -5,7 +5,10 @@ description: Instructions for paper submission.
 priority: 10
 ---
 
+Submission information to come in the following months.
+
 {% comment %}
+
 <p class="message">
 The submissions site is now <a href="https://cmt.research.microsoft.com/RSS2017/">open</a>!
 </p>
@@ -20,6 +23,7 @@ Browse to [https://cmt.research.microsoft.com/RSS2017/](https://cmt.research.mic
 * **Conflicts**: This is a very critical step for the review process. After submission you will be asked to identify conflicts for this paper. You will be able to mark conflicts (and type) with known potential reviewers for RSS. This helps us execute the double blind policy and ensure unbiased reviewing. If these reviewers are part of your institution, they will be considered as having a conflict and there is no reason to list them as conflicting.
 * **Paper ID**: After clicking the Submit link, your paper will be assigned an ID.
 * **Supplementary material**: Authors may submit supplementary material such as a video or an expanded version of a proof (30MB max, accepted formats: avi, mov, mp4, mpg, pdf, tar, tgz, zip). Please note that the link to upload supplementary material becomes active only after the paper submission is complete.
+
 
 ## Paper Format
 We only accept submissions in PDF. Submissions may be up to 8 pages in length, including figures but possibly excluding references. Additional pages can be used for references. However, the 9th page, and any subsequent pages, can contain ONLY references. This will be strictly enforced. Submissions can use a font no smaller than 10 point. Submissions violating these guidelines will not be considered. A paper template is available in <a href="{{site.baseurl}}/docs/paper-template-latex.tar.gz">LaTeX</a> and <a href="{{site.baseurl}}/docs/paper-template-word.zip">Word</a>. Please read the [detailed instructions]({{site.baseurl}}{% post_url 2016-10-18-paper-format%}).
@@ -76,5 +80,6 @@ agreement form [also MANDATORY]. Please make sure you submit both
 forms. You can upload newer versions of these files until the
 deadline.
 
-
 {% endcomment %}
+
+

@@ -3,6 +3,7 @@ layout: page
 title: Accommodations
 description: Where people will stay and what they'll eat.
 priority: 7
+invisible: true
 ---
 
 {% comment %}
