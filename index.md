@@ -8,7 +8,7 @@ July 12-17, 2020</h1>
 The {{site.title}} has a long history of bringing together researchers in all
 areas of robotics from around the world for an engaging and focused week of
 single-track presentations, workshops, poster sessions, tutorials, and fun!
-This year, once again, we solicit your best work.
+This year, once again, we solicit your best work. 
 
 ## Conference Location
 
