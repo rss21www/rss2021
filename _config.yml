@@ -30,16 +30,16 @@ github:
   repo:
 
 collections:
-    committees:
+    Committees:
         output: true
         permalink: /committees/:path/
-    attending:
+    Attending:
         output: true
         permalink: /attending/:path/
-    program:
+    Program:
         output: true
         permalink: /program/:path/
-    information:
+    Information:
         output: true
         permalink: /information/:path/
 
