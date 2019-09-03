@@ -71,6 +71,6 @@ Oregon State University at Corvallis, Oregon.
     </tbody>
   </table>
 
-  The website of the 2019 RSS conference can be found [here](http://www.roboticsconference.org/).
+  The website of the 2019 RSS conference can be found [here](http://rss2019.informatik.uni-freiburg.de).
 
 {% include sponsors.html %}
