@@ -42,7 +42,7 @@ description: Organizing team.
             <i>TBD</i><br>
             <br>
 	    <b>RSS Pioneers Chair</b><br>
-            <a href="Thttps://patricialvesoliveira.com/">Patrícia Alves-Oliveira</a><br>
+            <a href="https://patricialvesoliveira.com/">Patrícia Alves-Oliveira</a><br>
             <i>ISCTE-IU, INESC-ID, and Cornell University</i><br>
 	    <a href="http://valentinp.com/">Valentin Peretroukhin</a><br>
             <i>University of Toronto</i><br>
