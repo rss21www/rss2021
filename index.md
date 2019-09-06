@@ -14,6 +14,7 @@ This year, once again, we solicit your best work.
 
 Oregon State University at Corvallis, Oregon.
 
+
 <table class="table">
     <thead>
       <tr>
@@ -22,26 +23,22 @@ Oregon State University at Corvallis, Oregon.
     </thead>
     <tbody>
       <tr>
-        <td>TBD</td>
+        <td>January 30th, 2020</td>
         <td><a href="https://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
         <td>Paper Submission Deadline</td>
       </tr>
       <tr>
-        <td>TBD</td>
+        <td>February 6th, 2020</td>
         <td><a href="https://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
         <td>Workshop Submission Deadline</td>
       </tr>
       <tr>
-      <td colspan="2">TBD</td>
+      <td colspan="2">March 6th, 2020</td>
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr >
-        <td colspan="2">TBD</td>
+        <td colspan="2">April 16th, 2020</td>
         <td>Paper Acceptance Notification</td>
-      </tr>
-      <tr>
-        <td colspan="2">TBD</td>
-        <td>Camera-ready Submission Deadline</td>
       </tr>
       <tr>
         <td colspan="2">TBD</td>
