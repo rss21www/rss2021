@@ -49,19 +49,19 @@ Oregon State University at Corvallis, Oregon.
         <td>Registration Deadline</td>
       </tr>
 	  <tr>
-        <td colspan="2">July 11th</td>
+        <td colspan="2">July 11th, 2020</td>
         <td>Pioneers Workshop</td>
       </tr>
 	  <tr>
-        <td colspan="2">July 12th - 13th</td>
+        <td colspan="2">July 12th - 13th, 2020</td>
         <td>Workshops</td>
       </tr>
       <tr>
-        <td colspan="2">July 14th - 16th</td>
+        <td colspan="2">July 14th - 16th, 2020</td>
         <td>Main Conference</td>
       </tr>
       <tr>
-        <td colspan="2">July 15th</td>
+        <td colspan="2">July 15th, 2020</td>
         <td>Banquet</td>
       </tr>
       
