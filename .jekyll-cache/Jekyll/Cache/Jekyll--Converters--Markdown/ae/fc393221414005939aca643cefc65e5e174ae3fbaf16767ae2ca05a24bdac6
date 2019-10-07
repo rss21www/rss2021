@@ -1,0 +1,23 @@
+I"�<p class="text-left"><i>Authors: Gedas Bertasius, Hyun Soo Park, Stella Yu, Jianbo Shi</i></p>
+
+<p>Unlike traditional third-person cameras mounted on robots, a first-person camera, captures a person’s visual sensorimotor object interactions from up close. In this paper, we study the tight interplay between our momentary visual attention and motor action with objects from a first-person camera. We propose a concept of action-objects—the objects that capture person’s conscious visual (watching a TV) or tactile (taking a cup) interactions. Action-objects may be task-dependent but since many tasks share common person-object spatial configurations, action-objects exhibit a characteristic 3D spatial distance and orientation with respect to the person.   We design a predictive model that detects action-objects using EgoNet, a joint two-stream network that holistically integrates visual appearance (RGB) and 3D spatial layout (depth and height) cues to predict per-pixel likelihood of action-objects. Our network also incorporates a first-person coordinate embedding, which is designed to learn a spatial distribution of the action-objects in the first-person data. We demonstrate EgoNet’s predictive power, by showing that it consistently outperforms previous baseline approaches. Furthermore, EgoNet also exhibits a strong generalization ability, i.e., it predicts semantically meaningful objects in novel first-person datasets. Our method’s ability to effectively detect action-objects could be used to improve robots’ understanding of human-object interactions.</p>
+
+<p>[<b><a href="/static/papers/33.pdf">Full Paper</a></b> | <b><a href="/static/slides/33.mp4">Slides</a></b>]</p>
+
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = "http://roboticsconference.org/program/papers/33/";
+this.page.identifier = "/program/papers/33";
+};
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://rss-2017.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+:ET

@@ -1,0 +1,23 @@
+I"Ú<p class="text-left"><i>Authors: Edward Schmerling, Marco Pavone</i></p>
+
+<p>This paper presents a tool for addressing a key component in many algorithms for planning robot trajectories under uncertainty: evaluation of the safety of a robot whose actions are governed by a closed-loop feedback policy near a nominal planned trajectory. We describe an adaptive importance sampling Monte Carlo framework that enables the evaluation of a given control policy for satisfaction of a probabilistic collision avoidance constraint which also provides an associated certificate of accuracy (in the form of a confidence interval). In particular this adaptive technique is well-suited to addressing the complexities of rigid-body collision checking applied to non-linear robot dynamics. As a Monte Carlo method it is amenable to parallelization for computational tractability, and is generally applicable to a wide gamut of simulatable systems, including alternative noise models. Numerical experiments demonstrating the effectiveness of the adaptive importance sampling procedure are presented and discussed.</p>
+
+<p>[<b><a href="/static/papers/28.pdf">Full Paper</a></b> | <b><a href="/static/slides/28.mp4">Slides</a></b>]</p>
+
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = "http://roboticsconference.org/program/papers/28/";
+this.page.identifier = "/program/papers/28";
+};
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://rss-2017.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+:ET

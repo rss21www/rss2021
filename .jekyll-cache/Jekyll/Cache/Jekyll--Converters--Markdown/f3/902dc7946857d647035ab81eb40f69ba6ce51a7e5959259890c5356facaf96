@@ -1,0 +1,23 @@
+I"½<p class="text-left"><i>Authors: Amir Ali Ahmadi, Georgina Hall, Ameesh Makadia, Vikas Sindhwani</i></p>
+
+<p>Motivated by applications in robotics and computer vision, we study problems related to spatial reasoning of a 3D environment using sublevel sets of polynomials. These include: tightly containing a cloud of points (e.g., representing an obstacle) with convex or nearly-convex basic semialgebraic sets, computation of Euclidean distance between two such sets, separation of two convex basic semalgebraic sets that overlap, and tight containment of the union of several basic semialgebraic sets with a single convex one. We use algebraic techniques from sum of squares optimization that reduce all these tasks to semidefinite programs of small size and present numerical experiments in realistic scenarios.</p>
+
+<p>[<b><a href="/static/papers/36.pdf">Full Paper</a></b> | <b><a href="/static/slides/36.mp4">Slides</a></b>]</p>
+
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = "http://roboticsconference.org/program/papers/36/";
+this.page.identifier = "/program/papers/36";
+};
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://rss-2017.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+:ET
