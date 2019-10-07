@@ -5,7 +5,8 @@ description: Overview of the program.
 priority: 10
 ---
 
-The overview of the conference will be detailed sometime in the following months.
+<i>Rough schedule:</i>
+<object data="schedule-crop.pdf" width="600" height="600" type='application/pdf'/>
 
 
 {% comment %}
