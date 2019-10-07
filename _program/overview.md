@@ -6,7 +6,12 @@ priority: 10
 ---
 
 <i>Rough schedule:</i>
+{% comment %}
 <object data="schedule-crop.pdf" width="600" height="600" type='application/pdf'/>
+{% endcomment %}
+
+<img src="{{ site.baseurl }}/images/schedule-crop.jpg"
+       alt="Rough Schedule" width = "700" /> 
 
 
 {% comment %}
