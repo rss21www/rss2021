@@ -62,7 +62,7 @@ description: Organizing team.
     {% capture modulo %}{{ forloop.index0 | modulo:5 }}{% endcapture %}
     {% if modulo == '0' %}<div class="row text-center">{% endif %}
         <div class="col-sm-4">
-            <a href="{{ member.Affiliation }}">{{ member.first name }}</a><br>
+            <a href="{{ member.Link }}">{{member.first member.last}}</a><br>
             <i>{{ member.affiliation }}</i><br>
             <br>
         </div>
