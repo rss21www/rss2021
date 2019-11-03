@@ -69,5 +69,4 @@ description: Organizing team.
     {% if modulo == '2' or forloop.last %}</div>{% endif %}
     {% endfor %}
     </div>
-    
 </div>
