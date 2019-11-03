@@ -59,15 +59,15 @@ description: Organizing team.
     <div id="area-chairs" class="row text-center">
         <b>Area Chairs</b><br>
     {% for member in site.data.acs %}
-    {% capture modulo %}{{ forloop.index0 | modulo:5 }}{% endcapture %}
+    {% capture modulo %}{{ forloop.index0 | modulo:3 }}{% endcapture %}
     {% if modulo == '0' %}<div class="row text-center">{% endif %}
         <div class="col-sm-4">
-            <a href="{{ member.Link }}">{{member.First}}</a> member.Last<br>
+            <a href="{{ member.Link }}">{{member.Name}}</a><br>
 		<a href="{{ member.Scholar }}">{{Google Scholar}}</a><br>
             <i>{{ member.Affiliation }}</i><br>
             <br>
         </div>
-    {% if modulo == '5' or forloop.last %}</div>{% endif %}
+    {% if modulo == '3' or forloop.last %}</div>{% endif %}
     {% endfor %}
     </div>
 </div>
