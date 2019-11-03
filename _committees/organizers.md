@@ -63,10 +63,10 @@ description: Organizing team.
     {% if modulo == '0' %}<div class="row text-center">{% endif %}
         <div class="col-sm-4">
             <a href="{{ member.Link }}">{{member.first member.last}}</a><br>
-            <i>{{ member.affiliation }}</i><br>
+            <i>{{ member.Affiliation }}</i><br>
             <br>
         </div>
-    {% if modulo == '2' or forloop.last %}</div>{% endif %}
+    {% if modulo == '5' or forloop.last %}</div>{% endif %}
     {% endfor %}
     </div>
 </div>
