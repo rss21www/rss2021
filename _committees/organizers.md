@@ -58,7 +58,7 @@ description: Organizing team.
     </div>
     <div id="area-chairs" class="row text-center">
         <b>Area Chairs</b><br>
-    {% for member in site.data.ACS %}
+    {% for member in site.data.acs %}
     {% capture modulo %}{{ forloop.index0 | modulo:5 }}{% endcapture %}
     {% if modulo == '0' %}<div class="row text-center">{% endif %}
         <div class="col-sm-4">
