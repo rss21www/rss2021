@@ -56,24 +56,18 @@ description: Organizing team.
             <i>RIT</i><br>
             <br>
     </div>
-
-{% comment %}
     <div id="area-chairs" class="row text-center">
         <b>Area Chairs</b><br>
-
-    {% for member in site.data.areachairs %}
-    {% capture modulo %}{{ forloop.index0 | modulo:3 }}{% endcapture %}
-
+    {% for member in site.data.ACS %}
+    {% capture modulo %}{{ forloop.index0 | modulo:5 }}{% endcapture %}
     {% if modulo == '0' %}<div class="row text-center">{% endif %}
         <div class="col-sm-4">
-            <a href="{{ member.url }}">{{ member.name }}</a><br>
+            <a href="{{ member.Affiliation }}">{{ member.first name }}</a><br>
             <i>{{ member.affiliation }}</i><br>
             <br>
         </div>
     {% if modulo == '2' or forloop.last %}</div>{% endif %}
-
     {% endfor %}
-
     </div>
-{% endcomment %}
+    
 </div>
