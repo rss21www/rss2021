@@ -63,7 +63,7 @@ description: Organizing team.
     {% if modulo == '0' %}<div class="row text-center">{% endif %}
         <div class="col-sm-4">
             <a href="{{ member.Link }}">{{member.Name}}</a><br>
-		<a href="{{ member.Scholar }}">{{Google Scholar}}</a><br>
+		<a href="{{ member.Scholar }}">{Google Scholar}</a><br>
             <i>{{ member.Affiliation }}</i><br>
             <br>
         </div>
