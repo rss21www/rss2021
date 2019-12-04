@@ -53,7 +53,7 @@ description: Organizing team.
             <br>
             <b>Web Chair</b><br>
             <a href="https://www.rit.edu/directory/jrheee-jamison-heard">Jamison Heard</a><br>
-            <i>RIT</i><br>
+            <i>Rochester Institute of Technology</i><br>
             <br>
     </div>
    
