@@ -50,6 +50,31 @@ Autonomous Robots.
 
 Please visit the [author information]({{site.baseurl}}/information/authorinfo/) page for extensive instructions.
 
+## Subject Areas {#subject-areas}
+
+We invite submissions in all areas of robotics, including the
+following. During submission, please mark 1 primary and up to 2
+secondary subject areas to help us assigning the paper to reviewers.
+
+* **Mechanisms and Design:** Mechatronics, Humanoids, Hands, Novel Materials, Legged Systems, Snake Robots, Novel Actuators, Reconfigurable Robots, MEMS/NEMS, Micro/Nanobots, Novel Sensors, Haptics, Tactile Interfaces, Soft Robots, Wearable Robots, Design Optimization of Robotic Systems, Minimality in design
+* **Learning:** Machine Learning and Control, Deep Learning, Safe Learning, Model-Constrained Learning, Reinforcement Learning, Inverse RL, Model-Based & Model-Free RL, Imitation Learning, Learning from Demonstration, Sim2Real and Real2Sim Learning
+* **Control and Dynamics:** Control Theory, Nonlinear Control, Learning-based Control, System Identification, Adaptive Control, Optimization for Control
+* **Planning:** Motion Planning, Manipulation Planning, Task Planning, Logical Reasoning, Optimization-based Planning, Learning for Planning, Planning to Learn, Complexity and Completeness, Computational Geometry, Planning under Uncertainty
+* **Manipulation:** Manipulation Planning, Contact Modeling, Sequential Manipulation, Grasp Synthesis, Dexterous Manipulation, Force Control, Visual Servoing, Assembly
+* **Field Robotics:** Underwater Robotics, Aerial/Space Robotics, Agricultural and Mining Robotics, Building and Construction, Environmental Monitoring, Autonomous Vehicles
+* **Human-Robot Interaction and Human Centered Systems:** Human Augmentation, Assistive Robots, Rehabilitation Robots, Social Robots, Safe Interaction, Robots and Art, Grounded Language Understanding, Natural Language Generation, Human-Robot Dialogue, Novel Interfaces, Proximate or Remote Human-Robot Teaming, Co-Robots, Intention Detection
+* **Robot Perception:** Scene Understanding, Segmentation, Object Tracking, Pose Estimation, 3D Modeling, Visual Predictive Modeling, Interactive Perception, Proprioceptive Sensing, Tactile and Haptic Perception, Calibration
+* **Formal Methods:** Safety, Verification, Validation, Correct-by-construction Systems, Controller Synthesis, Certification
+* **Distributed Systems:** Multi-Robot Systems, Networked Robots, Robot Soccer, Swarms, Coordination, Task and Resource Allocation
+* **Healthcare and Medical Robotics:** Rehabilitation Robotics, Mobility Aids, Navigation Aids, Robotic Prostheses, Exoskeletons, Robot-assisted Procedures, Smart Surgical Tools, Clinical Support Robots, Robots for Behavioral and Mental Health, Telehealth Robots, Ambulatory Care Robots
+* **Biological Robotics:** Biomimetic Robotics, Robotic Investigation of Biological Science and Systems, Neurobotics, Prosthetics, Robotics and Molecular Biology
+* **Mobile Robotics:** Mapping, Localization, Locomotion, Navigation, SLAM, Collision Avoidance, Exploration
+
+
 ## Special Journal Issues
 
-About _half_ of the selected papers will be invited for submission to a special issue of International Journal of Robotics Research (IJRR) and a special issue of Autonomous Robots (AuRo). For example, out of the 57 accepted papers in RSS 2014, 15 appeared in the [IJRR Special Issue](http://ijr.sagepub.com/content/35/1-3.toc), and 13 in the [AuRo Special Issue](http://link.springer.com/journal/10514/39/3/page/1).
+About _half_ of the selected papers will be invited for submission to a special issue of International Journal of Robotics Research (IJRR) and a special issue of Autonomous Robots (AuRo).
+
+{% comment %}
+For example, out of the 57 accepted papers in RSS 2014, 15 appeared in the [IJRR Special Issue](http://ijr.sagepub.com/content/35/1-3.toc), and 13 in the [AuRo Special Issue](http://link.springer.com/journal/10514/39/3/page/1).
+{% endcomment %}
