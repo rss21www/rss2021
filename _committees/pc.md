@@ -8,6 +8,7 @@ description: Reviewing team.
     <b>Program Chair</b><br>
         <a href="http://ipvs.informatik.uni-stuttgart.de/mlr/marc/">Marc Toussaint</a><br>
 		<i>University of Stuttgart</i><br>
+            <br>
 
 	<b>Area Chairs</b><br>
     {% for member in site.data.acs %}
@@ -25,8 +26,10 @@ description: Reviewing team.
 
 
 
+{% comment %}
 <ul class="two-col text-left" style="list-style: none;">
 {% for member in site.data.pc %}
 <li>{{ member.FirstName }} {{ member.LastName }} (<i>{{ member.Organization }}</i>)</li>
 {% endfor %}
 </ul>
+{% endcomment %}
