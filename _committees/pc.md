@@ -5,7 +5,11 @@ description: Reviewing team.
 ---
 
  <div id="area-chairs" class="row text-center">
-        <b>Area Chairs</b><br>
+    <b>Program Chair</b><br>
+        <a href="http://ipvs.informatik.uni-stuttgart.de/mlr/marc/">Marc Toussaint</a><br>
+		<i>University of Stuttgart</i><br>
+
+	<b>Area Chairs</b><br>
     {% for member in site.data.acs %}
     {% capture modulo %}{{ forloop.index0 | modulo:3 }}{% endcapture %}
     {% if modulo == '0' %}<div class="row text-center">{% endif %}

@@ -50,7 +50,9 @@ Autonomous Robots.
 
 Please visit the [author information]({{site.baseurl}}/information/authorinfo/) page for extensive instructions.
 
-## Subject Areas {#subject-areas}
+{#subject-areas}
+
+## Subject Areas 
 
 We invite submissions in all areas of robotics, including the
 following. During submission, please mark 1 primary and up to 2
