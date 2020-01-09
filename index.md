@@ -23,7 +23,7 @@ Oregon State University at Corvallis, Oregon.
     </thead>
     <tbody>
       <tr>
-        <td><div style="color:#ff0000;">January 31th, 2020</div></td>
+        <td><div style="color:#ff0000;">January 31st, 2020</div></td>
         <td><a href="https://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
         <td>Paper Submission Deadline</td>
       </tr>
