@@ -50,7 +50,7 @@ Oregon State University at Corvallis, Oregon.
       </tr>
 	  <tr>
         <td colspan="2">July 11th, 2020</td>
-        <td>Pioneers Workshop</td>
+        <td>[Pioneers Workshop] (https://sites.google.com/view/rsspioneers2020/home)</td>
       </tr>
 	  <tr>
         <td colspan="2">July 12th - 13th, 2020</td>
