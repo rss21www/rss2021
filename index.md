@@ -28,7 +28,7 @@ Oregon State University at Corvallis, Oregon.
         <td>Paper Submission Deadline</td>
       </tr>
       <tr>
-        <td>February 6th, 2020</td>
+        <td>February 16th, 2020</td>
         <td><a href="https://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
         <td>Workshop Submission Deadline</td>
       </tr>
