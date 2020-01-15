@@ -24,7 +24,7 @@ particularly for student attendees.
 
 ## Important Dates
 
-* Full Paper Submission: January 30, 2020
+* Full Paper Submission: January 31, 2020
 * Paper Notification: April 16, 2020
 * Conference Dates: July 12 - 16, 2020
 * Submissions will either be accepted or rejected. This year, RSS will not have a rebuttal phase, nor conditional acceptances.
