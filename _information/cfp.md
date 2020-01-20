@@ -50,7 +50,7 @@ Autonomous Robots.
 
 Please visit the [author information]({{site.baseurl}}/information/authorinfo/) page for extensive instructions.
 
-{#subject-areas}
+
 
 ## Subject Areas 
 
