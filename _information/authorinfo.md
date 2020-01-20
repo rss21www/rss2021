@@ -12,12 +12,12 @@ The submissions site at <a href="https://cmt.research.microsoft.com/RSS2020/"> h
 {% endcomment %}
 
 ## Submission Instructions
-
-The submissions site at <a href="https://cmt.research.microsoft.com/RSS2020/"> https://cmt.research.microsoft.com/RSS2020/</a> will open on December 30th.
-
 {% comment %}
-Browse to [https://cmt.research.microsoft.com/RSS2020/](https://cmt.research.microsoft.com/RSS2020/).
+The submissions site at <a href="https://cmt3.research.microsoft.com/RSS2020/"> https://cmt3.research.microsoft.com/RSS2020/</a> will open on December 30th.
 {% endcomment %}
+
+Browse to [https://cmt3.research.microsoft.com/RSS2020/](https://cmt3.research.microsoft.com/RSS2020/) for submissions.
+
 
 * **Logging into the system**: If you already have a CMT account, use those credentials to login. If you do not, sign up as a new user.
 * **Conflict domains**: When you login for the first time, CMT will prompt you to enter your conflict domains. You will not be allowed to start the submission process without finishing this step.
