@@ -38,8 +38,10 @@ description: Organizing team.
             <i>University of Utah</i><br>
             <br>
 	    <b>Inclusion Chair</b><br>
-            <a href="TBD">TBD</a><br>
-            <i>TBD</i><br>
+            <a href="https://scholar.google.com/citations?user=EIzvLY0AAAAJ&hl=ar">Marwa ElDiwiny</a><br>
+            <i>Twente University</i><br>
+	    <a href="https://scholar.google.com/citations?user=m5rgBkUAAAAJ&hl=en">Victoria Edwards</a><br>
+            <i>Naval Research Lab</i><br>
             <br>
 	    <b>RSS Pioneers Chair</b><br>
             <a href="https://patricialvesoliveira.com/">Patrícia Alves-Oliveira</a><br>
