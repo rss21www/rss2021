@@ -38,8 +38,8 @@ description: Organizing team.
             <i>University of Utah</i><br>
             <br>
 	    <b>Inclusion Chair</b><br>
-            <a href="https://scholar.google.com/citations?user=EIzvLY0AAAAJ&hl=ar">Marwa ElDiwiny</a><br>
-            <i>Twente University</i><br>
+            <a href="https://people.utwente.nl/marwa.eldiwiny">Marwa ElDiwiny</a><br>
+            <i>University of Twente</i><br>
 	    <a href="https://scholar.google.com/citations?user=m5rgBkUAAAAJ&hl=en">Victoria Edwards</a><br>
             <i>Naval Research Lab</i><br>
             <br>
