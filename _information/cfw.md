@@ -33,7 +33,7 @@ In addition to traditional workshops, there will be a special “outlier” trac
 We expect proposals to be approximately 2–3 pages in length, and no more than 5 pages.
 The proposal template can be found at this link [https://docs.google.com/document/d/1N7X6axQsE7WpNysRaw7A-aaD9SqW2uB1QgCskfNi46s/edit?usp=sharing](https://docs.google.com/document/d/1N7X6axQsE7WpNysRaw7A-aaD9SqW2uB1QgCskfNi46s/edit?usp=sharing)
 
-Submissions can be submitted on EasyChair at: [https://easychair.org/conferences/?conf=rss2020-workshops](https://easychair.org/conferences/?conf=rss2020-workshops)
+Workshop proposals should be submitted on EasyChair at: [https://easychair.org/conferences/?conf=rss2020-workshops](https://easychair.org/conferences/?conf=rss2020-workshops)
 
 ## Important Dates
 
