@@ -11,7 +11,7 @@ Please contact the <a href="{{site.baseurl}}/committees/organizers/">workshop ch
 </p>
 {% endcomment %}
 
-The Organizing Committee for the 2020 Robotics: Science and Systems Conference (RSS 2020) requests proposals for full and half-day workshops and tutorials to be held on July 12-16, 2020 at Corvallis, OR, USA.
+The Organizing Committee for the 2020 Robotics: Science and Systems Conference (RSS 2020) requests proposals for full and half-day workshops and tutorials to be held on July 12-16, 2020 at Corvallis, OR, USA. Workshop proposals should be submitted on EasyChair at: https://easychair.org/conferences/?conf=rss2020-workshops](https://easychair.org/conferences/?conf=rss2020-workshops). Please contact the <a href="{{site.baseurl}}/committees/organizers/">workshop chairs</a> for any clarifications.
 
 The RSS workshops have consistently provided high-quality, topically-focused forums for researchers at the forefront of robotics. This year these events will take place on Sunday, July 12 and Monday, July 13 before the main conference.
 
@@ -30,6 +30,8 @@ In addition to traditional workshops, there will be a special “outlier” trac
 
 We expect proposals to be approximately 2–3 pages in length, and no more than 5 pages.
 The proposal template can be found at this link [https://docs.google.com/document/d/1N7X6axQsE7WpNysRaw7A-aaD9SqW2uB1QgCskfNi46s/edit?usp=sharing](https://docs.google.com/document/d/1N7X6axQsE7WpNysRaw7A-aaD9SqW2uB1QgCskfNi46s/edit?usp=sharing)
+
+Submissions can be submitted on EasyChair at: [https://easychair.org/conferences/?conf=rss2020-workshops](https://easychair.org/conferences/?conf=rss2020-workshops)
 
 ## Important Dates
 
