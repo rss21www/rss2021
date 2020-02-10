@@ -17,8 +17,8 @@ The primary focus of the 2020 Inclusion@RSS will be to increase the number of ne
     </thead>
     <tbody>
       <tr>
-        <td>March 13, 2020</div></td>
-        <td>23:59 Pacific Time</a></td>
+        <td>March 13, 2020 </td>
+        <td>23:59 Pacific Time </td>
         <td>Paper Submission Deadline</td>
       </tr>
       <tr>
