@@ -3,7 +3,7 @@ layout: page
 title: Non-Conference Activities
 description: Fun Activities
 Priority: 3
-invisible: false
+invisible: true
 ---
 
 
