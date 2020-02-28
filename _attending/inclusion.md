@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Inclusion@RSS
+priority: 8
 invisible: false
 ---
 
