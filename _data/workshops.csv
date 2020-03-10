@@ -1,1 +1,28 @@
-﻿external_id,internal_id,title,organizers,date,room,url
+﻿Null_Space,external_id,internal_id,title,organizers,date,room,day,url
+0,WS1-1,TBD,1st RSS Workshop on Social Robot Navigation,"Christoforos Mavrogiannis, Pete Trautman, Leila Takayama, Siddhartha S. Srinivasa",SUN,TBD,Full,https://socialrobotnavigation.github.io/
+0,WS1-2,TBD,Reacting to contact: Enabling transparent interactions through intelligent sensing and actuation ,TBD,SUN,TBD,Full,TBD
+0,WS1-3,TBD,Certifiable Robot Perception: from Global Optimization to Safer Robots,"Luca Carlone, Tat-Jun Chin, Anders Eriksson, Heng Yang",SUN,TBD,Half,https://mit-spark.github.io/CertifiablePerception-RSS2020/
+0,WS1-4,TBD,Advancing the State of Machine Learning for Manufacturing Robotics ,"Elena Messina, Holly Yanco, Megan Zimmerman, Craig Schlenoff, Dragos Margineantu",SUN,TBD,Half,https://www.nist.gov/el/intelligent-systems-division-73500/advancing-state-machine-learning-manufacturing-robotics
+0,WS1-5,TBD,Advances and Challenges in Imitation Learning for Robotics ,"Scott Niekum, Akanksha Saran, Yuchen Cui, Nick Walker, Andreea Bobu, Ajay Mandlekar, Danfei Xu",SUN,TBD,Full,https://sites.google.com/utexas.edu/rss-2020-imitation-learning/home
+0,WS1-6,TBD,2nd Workshop on Closing the Reality Gap in Sim2Real Transfer for Robotics,"Sebastian Höfer, 	Kostas Bekris,  Ankur Handa, Juan Camilo Gamboa, Florian Golemo, Melissa Mozifian",SUN,TBD,Full,https://sim2real.github.io/
+0,WS1-7,TBD,ROS Carpentry Workshop,"Katherine Scott, Mabel Zhang, Camilo Buscaron, Steve Macenski",SUN,TBD,Full,https://osrf.github.io/rss2020-ROS-Carpentry/
+0,WS1-8,TBD,Perception and Control for Fast and Agile Super-Vehicles II,"Varun Murali, Phillip Foehn, Davide Scaramuzza, Sertac Karaman",SUN,TBD,Full,https://mit-fast.github.io/WorkshopRSS20SuperVehicles/
+0,WS1-9,TBD,Robotics Retrospectives ,"Jeannette Bohg, Franziska Meier, Arunkumar Byravan, Akshara Rai",SUN,TBD,Full,https://sites.google.com/view/robotics-retrospectives/home
+0,WS1-10,TBD,Heterogeneous Multi-Robot Task Allocation and Coordination ,"Harish Ravichandar, Ragesh Ramachandran,Sonia Chernova,Seth Hutchinson,Gaurav Sukhatme,Vijay Kumar",SUN,TBD,Full,https://sites.google.com/view/mrta-rss2020
+0,WS1-11,TBD,Learning (in) Task and Motion Planning ,"Danny Driess, Neil T. Dantam, Lydia E. Kavraki, Marc Toussaint",SUN,TBD,Full,https://ipvs.informatik.uni-stuttgart.de/mlr/rss2020Workshop/
+0,WS1-12,TBD,"Performing Arts Robots & Technologies, Integrated (PARTI) ","Naomi Fitter, Heather Knight,Amy LaViers",SUN,TBD,Full,http://publish.illinois.edu/alaviers/rss-2020-workshop/
+0,WS1-13,TBD,Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration,"Hannah Kerner, Amy Tabb, Jnaneshwar Das, Pratap Tokekar, Masahiro Ono ",SUN,TBD,Full,https://deepgis.org/rss2020workshop/
+0,WS1-14,TBD,Emergent Behaviors in Human-Robot Systems ,"Erdem Bıyık, Minae Kwon, Dylan Losey, Noah Goodman, Stefanos Nikolaidis, Dorsa Sadigh",SUN,TBD,Full,http://iliad.stanford.edu/rss-workshop/
+0,WS2-1,TBD,Interaction and Decision-Making in Autonomous Driving ,"Rowan McAllister, Litin Sun,Igor Gilitschenski, Daniela Rus",MON,TBD,Full,https://sites.google.com/view/ida2020
+0,WS2-2,TBD,2nd RSS Workshop on Robust Autonomy: Tools for Safety in Real-World Uncertain Environments ,"Andrea Bajcsy, Ransalu Senanayake, Somil Bansal, Sylvia Herbert, David Fridovich-Keil, Jaime Fernández Fisac",MON,TBD,Full,https://sites.google.com/view/rss2020robustautonomy/home
+0,WS2-3,TBD,AI & Its Alternatives in Assistive & Collaborative Robotics ,"Deepak Gopinath, Aleksandra Kalinowska, Mahdieh Nejati, Katarina Popovic, Brenna Argall, Todd Murphey",MON,TBD,Full,https://sites.google.com/u.northwestern.edu/rss2020aiacrworkshop/home
+0,WS2-4,TBD,Benchmarking Tools for Evaluating Robotic Assembly of Small Parts,"Adam Norton, Holly Yanco, Joseph Falco, Kenneth Kimble",MON,TBD,Half,https://www.uml.edu/research/nerve/assembly-workshop-rss-2020.aspx
+0,WS2-5,TBD,Good Citizens of Robotics Research,"Mustafa Mukadam, Nima Fazeli, Niko Sünderhauf",MON,TBD,Full,https://sites.google.com/view/rss20-gcr
+0,WS2-6,TBD,Structured Approaches to Robot Learning for Improved Generalization ,"Arunkumar Byravan, Markus Wulfmeier, Franziska Meier, Mustafa Mukadam, Nicolas Heess, Angela Schoellig, Dieter Fox  ",MON,TBD,Full,https://sites.google.com/view/rss20-sarl
+0,WS2-7,TBD,Explainable and Trustworthy Robot Decision Making for Scientific Data Collection,"Nisar Ahmed, P. Michael Furlong, Geoff Hollinger, Seth McCammon",MON,TBD,Full,https://sites.google.com/view/explainable-data-collection/
+0,WS2-8,TBD,Towards Practical Service Robots---Human-Robot Interaction ,"Guilherme Maeda, Nick Walker, Petar Kormushev, Maru Cabrera ",MON,TBD,Full,https://sites.google.com/cs.washington.edu/rss-2020-service-robots/home
+0,WS2-9,TBD,Visuotactile Sensors for Robust Manipulation: From Perception to Control ,"Alex Alspach,Naveen Kuppuswamy, Avinash Uttamchandani,Filipe Veiga,Wenzhen Yuan",MON,TBD,Full,http://alexalspach.com/workshops/visuotactile2020/
+0,WS2-10,TBD,Self-Supervised Robot Learning ,"Abhinav Valada, Anelia Angelova, Joschka Boedecker, Oier Mees, Wolfram Burgard ",MON,TBD,Full,https://www.brainlinks-braintools.uni-freiburg.de/rss-2020-workshop/
+0,WS2-11,TBD,Power On and Go Robots: 'Out-of-the-Box' Systems for Real-World Applications,"Jonathan Kelly, Stephan Weiss, Robuffo Giordana  ",MON,TBD,Full,https://www.power-on-and-go.net/
+0,WS2-12,TBD,Workshop on Visual Learning and Reasoning for Robotics ,"Kuan Fang, David Held, Yuke Zhu, Dinesh Jayaraman, Animesh Garg, Lin Sun, Yu Xiang, Greg Dudek",MON,TBD,Full,https://sites.google.com/view/rss20vlrr
+0,WS2-13,TBD,Action Representations for Learning in Continuous Control ,"Tamim Asfour, Miroslav Bogdanovic, Jeannette Bohg, Animesh Garg, Roberto Martín-Martín, Ludovic Righetti",MON,TBD,Full,https://sites.google.com/stanford.edu/ar4rl/
