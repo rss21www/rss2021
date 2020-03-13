@@ -14,6 +14,7 @@ The workshop coffee breaks will be from 10:30 to 11:00 AM and 3:00 to 3:30 PM, w
 
 {% comment %}
 [Here]({{ site.baseurl }}/docs/campusmap.pdf) is a labeled map of the workshop buildings.
+
 {% endcomment %}
 
 {% for day in page.days %}
