@@ -3,7 +3,12 @@ layout: page
 title: Local Information
 description: Fun things to do at the conference.
 priority: 10
+invisible: true
 ---
+
+
+
+
 
 The conference is located in [Corvallis](https://www.visitcorvallis.com/), Oregon. 
 

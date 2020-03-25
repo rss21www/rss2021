@@ -5,6 +5,18 @@ description: The awesome place we're holding our conference.
 priority: 9
 ---
 
+
+# <span style="color:red">**Update Concerning COVID-19** </span>
+
+<span style="color:red">The RSS 2020 organizing committee and the RSS foundation boards hope you are safe and well. Due to the pandemic and the uncertainty regarding travel to the US, RSS 2020 will take place **VIRTUALLY** during the original dates (July 12-16). </span>
+ 
+<span style="color:red">The paper review process is on track and we particularly want to thank our reviewers and area chairs for their great service despite the difficult situation. We are planning to send out paper notifications by the beginning of May.</span>
+
+ 
+<span style="color:red">We expect to share details regarding RSS 2020 by the end of May. The official conference proceedings will be available online, as usual, and we are exploring ways to create an exciting and engaging online program. While we cannot meet physically in one place, let us stay connected as a community and support the open scientific discourse that is the hallmark of RSS. </span>
+
+
+
 # Main Conference
 The conference will be held at Oregon State University (OSU). The conference's primary events will be held in Austin Auditorium: 
 

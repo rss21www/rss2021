@@ -1,10 +1,22 @@
 ---
 layout: page
-title: Traveling to Oregon State
+title: Virtual Attendance
 description: How to get to OSU.
 Priority: 3
 invisible: false
 ---
+
+# <span style="color:red">**Update Concerning COVID-19** </span>
+
+<span style="color:red">The RSS 2020 organizing committee and the RSS foundation boards hope you are safe and well. Due to the pandemic and the uncertainty regarding travel to the US, RSS 2020 will take place **VIRTUALLY** during the original dates (July 12-16). </span>
+ 
+<span style="color:red">The paper review process is on track and we particularly want to thank our reviewers and area chairs for their great service despite the difficult situation. We are planning to send out paper notifications by the beginning of May.</span>
+
+ 
+<span style="color:red">We expect to share details regarding RSS 2020 by the end of May. The official conference proceedings will be available online, as usual, and we are exploring ways to create an exciting and engaging online program. While we cannot meet physically in one place, let us stay connected as a community and support the open scientific discourse that is the hallmark of RSS. </span>
+
+
+{% comment %}
 
 # Flying
 
@@ -63,7 +75,7 @@ Go over the Marys River Bridge. Make a left turn on Western Blvd. Make a right t
 
 Drive south on 9th Street, turn right on Harrison, then left on 14th Street. (Note: When 14th crosses Monroe Ave., it becomes 15th.) Turn right on Western Blvd., and right on 26th Street. Travel one block and The LaSells Stewart Center will be on your right.
 
-
+{% endcomment %}
 
 
 
