@@ -36,7 +36,7 @@ This year, once again, we solicit your best work.
     </thead>
     <tbody>
       <tr>
-        <td><div style="color:#ff0000;">January 31st, 2020</div></td>
+        <td>January 31st, 2020</td>
         <td><a href="https://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
         <td>Paper Submission Deadline</td>
       </tr>
@@ -50,7 +50,7 @@ This year, once again, we solicit your best work.
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr >
-        <td colspan="2"><p style="text-decoration: line-through;">April 16th, 2020 </p> May 1st, 2020</td>
+        <td colspan="2"><p style="text-decoration: line-through;">April 16th, 2020 </p> beginning of May, 2020</td>
         <td>Paper Acceptance Notification</td>
       </tr>
       <tr>
