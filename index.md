@@ -5,6 +5,18 @@ title: Home
 <h1 class="page-title">{{ site.title }}<br>
 July 12-16, 2020</h1>
 
+# <span style="color:red">**Update Concerning COVID-19** </span>
+
+<span style="color:red">The RSS 2020 organizing committee and the RSS foundation boards hope you are safe and well. Due to the pandemic and the uncertainty regarding travel to the US, RSS 2020 will take place **VIRTUALLY** during the original dates (July 12-16). </span>
+ 
+<span style="color:red">The paper review process is on track and we particularly want to thank our reviewers and area chairs for their great service despite the difficult situation. We are planning to send out paper notifications by the beginning of May.</span>
+
+ 
+<span style="color:red">We expect to share details regarding RSS 2020 by the end of May. The official conference proceedings will be available online, as usual, and we are exploring ways to create an exciting and engaging online program. While we cannot meet physically in one place, let us stay connected as a community and support the open scientific discourse that is the hallmark of RSS. </span>
+
+
+## RSS
+
 The {{site.title}} has a long history of bringing together researchers in all
 areas of robotics from around the world for an engaging and focused week of
 single-track presentations, workshops, poster sessions, tutorials, and fun!
@@ -12,7 +24,8 @@ This year, once again, we solicit your best work.
 
 ## Conference Location
 
-Oregon State University at Corvallis, Oregon.
+<span style="color:red">~~Oregon State University at Corvallis, Oregon.~~</span>
+
 
 
 <table class="table">
