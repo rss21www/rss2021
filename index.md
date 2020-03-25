@@ -50,8 +50,7 @@ This year, once again, we solicit your best work.
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr >
-        <td colspan="2">~~April 16th, 2020~~</td>
-	<td colspan="2">May 1st, 2020</td>
+        <td colspan="2">~~April 16th, 2020~~ May 1st, 2020</td>
         <td>Paper Acceptance Notification</td>
       </tr>
       <tr>
