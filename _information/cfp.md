@@ -11,8 +11,6 @@ and
 [2nd CFP](http://duerer.usc.edu/pipermail/robotics-worldwide/2020-January/021559.html)
 emails.)</span>
 
-<p>
-
 We cordially invite you to submit your work to the 2020 Robotics: 
 Science and Systems Conference, which will bring together researchers 
 working on all aspects of robotics including scientific foundations, 
