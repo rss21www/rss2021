@@ -5,7 +5,7 @@ description: Paper submission guidelines.
 invisible: false
 ---
 
-<span style="color:red">As R:SS 2020 will be held as a virtual conference, some of the information below is obsolete. This is the original Call For Papers. (See the original 
+<span style="color:red">As R:SS 2020 will be held as a virtual conference, some of the information below is obsolete. This is the original Call for Papers. (See the original 
 [1st CFP](http://duerer.usc.edu/pipermail/robotics-worldwide/2019-December/021346.html)
 and
 [2nd CFP](http://duerer.usc.edu/pipermail/robotics-worldwide/2020-January/021559.html)

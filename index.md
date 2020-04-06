@@ -49,6 +49,10 @@ This year, once again, we solicit your best work.
       <td colspan="2">March 6th, 2020</td>
         <td>Workshop Acceptance Notification</td>
       </tr>
+      <tr>
+      <td colspan="2">April 13th, 2020</td>
+        <td>Author Feedback Deadline</td>
+      </tr>
       <tr >
         <td colspan="2"><p style="text-decoration: line-through;">April 16th, 2020 </p> beginning of May, 2020</td>
         <td>Paper Acceptance Notification</td>
