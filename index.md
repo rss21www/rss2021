@@ -50,7 +50,8 @@ This year, once again, we solicit your best work.
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr>
-      <td colspan="2">April 13th, 2020</td>
+        <td>April 13th, 2020</td>
+        <td><a href="https://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
         <td>Author Feedback Deadline</td>
       </tr>
       <tr >
