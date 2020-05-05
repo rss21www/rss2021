@@ -11,6 +11,38 @@ The submissions site at <a href="https://cmt.research.microsoft.com/RSS2020/"> h
 </p>
 {% endcomment %}
 
+## Instructions for Camera-ready Submissions  {#camera-ready}
+
+The conference proceedings for Robotics: Science and Systems 2020 will
+be published online with open access, and in a book. A revised version
+of your paper is due to be uploaded to CMT by AOE June 3, 2020. Please
+note that there will be no additional opportunity to revise your
+paper. In preparing for the proceedings, please follow the author
+guidelines posted below under "Paper Format." In particular, if more
+than 8 pages are used for a paper, the 9th page and any subsequent
+pages can contain ONLY references. There is no provision for
+supplementary materials in the proceedings, so please provide links to
+any additional content. Your proceedings submission should, of course,
+include your names, affiliations, and acknowledgements as we are past
+the double-blind review phase. In terms of content, please incorporate
+your reviewer and meta-reviewer comments.
+
+Author Agreement Form: One author must complete, sign, and upload the
+author agreement [form](/docs/RSS2020_Author_Agreement.pdf) to CMT.
+
+How to access everything:
+1. Login to CMT at [https://cmt.research.microsoft.com/RSS2020](https://cmt.research.microsoft.com/RSS2020)
+2. Make sure your role is "Author"
+3. Click on "Create Camera Ready Submission" in the "Actions" column for each of your accepted papers.
+4. You will be taken to a new screen where you can modify:
+- The title and abstract
+- Names and ordering of authors
+- Upload files: a camera-ready PDF [MANDATORY], and the author
+agreement form [also MANDATORY]. Please make sure you submit both
+forms. You can upload newer versions of these files until the
+deadline.
+
+
 ## Submission Instructions
 {% comment %}
 The submissions site at <a href="https://cmt3.research.microsoft.com/RSS2020/"> https://cmt3.research.microsoft.com/RSS2020/</a> will open on December 30th.
@@ -50,45 +82,5 @@ RSS is utterly intolerant of plagiarism. Submitted papers are expected to contai
 Please read the [review form]({{site.baseurl}}{% post_url 2019-12-04-review-form%}) to understand our emphasis this year.
 Authors, Program Committee members, and Area Chairs will all be anonymous. Each paper will receive 3 reviews.
 This year, we will have no rebuttals nor conditional acceptances.
-
-
-
-{% comment %}
-
-## Instructions for Camera-ready Submissions  {#camera-ready}
-{: .text-left}
-
-The conference proceedings for Robotics: Science and Systems 2017 will
-be published online with open access, and in a book. A revised version
-of your paper is due to be uploaded to CMT by AOE 30 May 2017. Please
-note that there will be no additional opportunity to revise your
-paper. In preparing for the proceedings, please follow the author
-guidelines posted above under "Paper Format." In particular, if more
-than 8 pages are used for a paper, the 9th page and any subsequent
-pages can contain ONLY references. There is no provision for
-supplementary materials in the proceedings, so please provide links to
-any additional content. Your proceedings submission should, of course,
-include your names, affiliations, and acknowledgements as we are past
-the double-blind review phase. In terms of content, please incorporate
-your reviewer and meta-reviewer comments. You are welcome to modify
-the content as much as you wish if it helps tell a better story.
-
-Author Agreement Form: One author must complete, sign, and upload the
-author agreement [form](/docs/RSS2017_Author_Agreement_final.pdf) to CMT.
-
-How to access everything:
-1. Login to CMT at [https://cmt.research.microsoft.com/RSS2017](https://cmt.research.microsoft.com/RSS2017)
-2. Make sure your role is "Author"
-3. Click on "Edit" in the "Camera-Ready" column for each of your accepted papers.
-4. You will be taken to a new screen where you can modify:
-- The title and abstract
-- Names and ordering of authors
-- Upload files: a camera-ready PDF [MANDATORY], and the author
-agreement form [also MANDATORY]. Please make sure you submit both
-forms. You can upload newer versions of these files until the
-deadline.
-
-{% endcomment %}
-
 
 
