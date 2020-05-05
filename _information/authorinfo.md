@@ -12,6 +12,7 @@ The submissions site at <a href="https://cmt.research.microsoft.com/RSS2020/"> h
 {% endcomment %}
 
 ## Instructions for Camera-ready Submissions  {#camera-ready}
+{: .text-left}
 
 The conference proceedings for Robotics: Science and Systems 2020 will
 be published online with open access, and in a book. A revised version
