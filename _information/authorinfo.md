@@ -5,11 +5,9 @@ description: Instructions for paper submission.
 priority: 10
 ---
 
-{% comment %}
 <p class="message">
-The submissions site at <a href="https://cmt.research.microsoft.com/RSS2020/"> https://cmt.research.microsoft.com/RSS2020/</a> will open soon.
+The submission form for Camera-ready submissions will open on May 16th.
 </p>
-{% endcomment %}
 
 ## Instructions for Camera-ready Submissions  {#camera-ready}
 {: .text-left}
@@ -32,7 +30,7 @@ Author Agreement Form: One author must complete, sign, and upload the
 author agreement [form](/docs/RSS2020_Author_Agreement.pdf) to CMT.
 
 How to access everything:
-1. Login to CMT at [https://cmt.research.microsoft.com/RSS2020](https://cmt.research.microsoft.com/RSS2020)
+1. Login to CMT at [https://cmt3.research.microsoft.com/RSS2020](https://cmt3.research.microsoft.com/RSS2020)
 2. Make sure your role is "Author"
 3. Click on "Create Camera Ready Submission" in the "Actions" column for each of your accepted papers.
 4. You will be taken to a new screen where you can modify:
