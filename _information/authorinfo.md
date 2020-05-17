@@ -20,8 +20,7 @@ paper. In preparing for the proceedings, please follow the author
 guidelines posted below under "Paper Format." In particular, if more
 than 8 pages are used for a paper, the 9th page and any subsequent
 pages can contain ONLY references. There is no provision for
-supplementary materials in the proceedings, so please provide links to
-any additional content. Your proceedings submission should, of course,
+supplementary materials in the proceedings. Therefore, please embed links in your pdf to stable URLs for any additional content. Your proceedings submission should, of course,
 include your names, affiliations, and acknowledgements as we are past
 the double-blind review phase. In terms of content, please incorporate
 your reviewer and meta-reviewer comments.
