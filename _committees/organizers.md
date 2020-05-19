@@ -6,12 +6,16 @@ description: Organizing team.
 <div>
     <div class="row text-center">
             <b>Program Chair</b><br>
-            <a href="http://ipvs.informatik.uni-stuttgart.de/mlr/marc/">Marc Toussaint</a><br>
-            <i>University of Stuttgart</i><br>
+            <a href="https://www.user.tu-berlin.de/mtoussai/">Marc Toussaint</a><br>
+            <i>Technical University of Berlin</i><br>
             <br>
 	    <b>General Chair</b><br>
             <a href="https://www.iit.it/people/antonio-bicchi">Antonio Bicchi</a><br>
             <i>University of Pisa</i><br>
+            <br>
+			<b>Virtual Conference Arrangements Chair</b><br>
+            <a href="http://www.jenskober.de/">Jens Kober</a><br>
+            <i>TU Delft</i><br>
             <br>
             <b>Local Arrangements Chairs</b><br>
             <a href="https://eecs.oregonstate.edu/people/adams-julie" >Julie A. Adams</a><br>
@@ -28,10 +32,6 @@ description: Organizing team.
             <i>University of Washingtion</i><br>
 	    <a href="https://kkhauser.web.illinois.edu/" >Kris Hauser</a><br>
             <i>University of Illinois at Urbana-Champaign</i><br>
-            <br>
-	    <b>Presentation Chair</b><br>
-            <a href="http://www.jenskober.de/">Jens Kober</a><br>
-            <i>TU Delft</i><br>
             <br>
 	    <b>Publication Chair</b><br>
             <a href="http://www.cs.utah.edu/~thermans/">Tucker Hermans</a><br>
