@@ -7,4 +7,10 @@ invisible: true
 
 {% comment %}
 Video submission is now closed for RSS 2017.
+
+
+Video Submissions are [here](https://script.google.com/macros/s/AKfycbyCmanh6z6cYGC6Pq1oatQhO3FUcf97cvnYdKp933k8f5wvMS0/exec)
+
 {% endcomment %}
+
+<iframe src="https://script.google.com/macros/s/AKfycbyCmanh6z6cYGC6Pq1oatQhO3FUcf97cvnYdKp933k8f5wvMS0/exec" frameborder="0" id="mainPageBody" width="1080px" height="1080px"></iframe>
