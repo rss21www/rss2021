@@ -13,4 +13,4 @@ Video Submissions are [here](https://script.google.com/macros/s/AKfycbyCmanh6z6c
 
 {% endcomment %}
 
-<iframe allow-same-origin allow-scripts allow-popups allow-forms src="https://script.google.com/macros/s/AKfycbzpIBWAzmlFAI1igBUIeMyVHleP66leRs0_Zv2DJS1CxRCIduZE/exec" frameborder="0" id="mainPageBody" width="1080px" height="1080px"></iframe>
+<iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="https://script.google.com/macros/s/AKfycbzpIBWAzmlFAI1igBUIeMyVHleP66leRs0_Zv2DJS1CxRCIduZE/exec" frameborder="0" id="mainPageBody" width="1080px" height="1080px"></iframe>
