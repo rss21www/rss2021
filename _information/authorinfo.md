@@ -9,6 +9,52 @@ priority: 10
 The submission form for Camera-ready submissions will open on May 16th.
 </p>
 
+## Instructions for uploading the pre-recorded paper presentations {#videos}
+{: .text-left}
+
+At RSS 2020 all paper presentations will be pre-recorded. They will be
+hosted on YouTube and will be made available before the conference and
+stay accessible indefinitely (similar to the recordings of the talks
+from last year).
+
+The pre-recorded presentations need to be submitted by June 20th 2020 (Anywhere on Earth). The submission link was given to authors in the Email on June 5th. You are free to use any tools you like to create the video. Below we compiled a list of potential tools for your help. The requirements for the videos are:
+
+* Duration max. 5 min
+* MP4 format
+* File size max. 500 MB
+* 16:9 aspect ratio (strongly preferred)
+* 1920x1080 resolution (strongly preferred, at least 720 height)
+* Should ideally have an inset with a video of the speaker
+
+Please contact Jens Kober j.kober@tudelft.nl (Virtual Conference Arrangements Chair) for questions related to the video submission.
+
+#### Tools for recording the presentations:
+
+* Debut (Windows, Mac): Free, allows including webcam https://www.nchsoftware.com/capture/index.html
+* OBS Studio (Windows, Linux, Mac): OpenSource, allows including webcam https://obsproject.com/
+* PowerPoint (Windows, Mac): Narrations and timing can be directly recorded in PowerPoint and exported as videos. Recordings are on a per slide basis (i.e., you cannot talk during slide transitions). Recent versions (Office 365) enable recording a webcam inset as well (Windows only) https://support.microsoft.com/en-us/office/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c?ui=en-us&rs=en-us&ad=us
+* Loom (Windows, Mac): Pro version is free for educational institutions, allows including webcam https://www.loom.com/education 
+* Zoom (Windows, Linux, Mac): Using “local recording”. Free version is sufficient. Tends not to record videos embedded in the presentation very well, allows including webcam https://zoom.us/ 
+* CamStudio (Windows): OpenSource, allows including webcam https://camstudio.org/ 
+* Ezvid (Windows): Free, allows including webcam https://www.ezvid.com/download 
+* SimpleScreenRecorder https://www.maartenbaert.be/simplescreenrecorder/  /  kazam  https://launchpad.net/kazam (Linux): OpenSource, screen capture only
+
+#### General tips:
+
+* Prepare a script on what to say. This will also help to cut the video later.
+* Record in one long session, repeating parts that you didn't like on the fly.
+* Then cut together the parts you like (might be easier if you prepared a script earlier).
+
+#### Free cross platform (Windows, Linux, Mac) video editing tools:
+
+* DaVinci Resolve: advanced (excellent, but might need nvidia GPU, esp on Linux) https://www.blackmagicdesign.com/sa/products/davinciresolve/
+* kdenlive: advanced https://kdenlive.org/en/
+* ShotCut: advanced  https://shotcut.org/
+* avidemux: simple http://avidemux.sourceforge.net/
+* lightworks: advanced https://www.lwks.com/
+* OpenShot: advanced https://www.openshot.org/
+
+
 ## Instructions for Camera-ready Submissions  {#camera-ready}
 {: .text-left}
 
