@@ -5,6 +5,21 @@ description: Accepted papers.
 invisible: true
 ---
 
+<ul>
+{% for paper in site.data.rss2020_papers %}
+<li>
+  <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperOrder}}/">
+    {{ paper.PaperTitle}}
+  </a>
+  <br/>
+  {{ paper.AuthorNames }}
+</li>
+<br/>
+{% endfor %}
+</ul>
+
+
+
 {% comment %}
 <ul>
 {% for paper in site.data.papers %}
