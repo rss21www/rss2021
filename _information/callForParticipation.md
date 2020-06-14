@@ -7,25 +7,25 @@ invisible: false
 
 Dear Roboticists,
 
-RSS 2020 will be held virtually this year, on June 12-16, 2020. We
+RSS 2020 will be held virtually this year, on July 12-16, 2020. We
 invite all roboticists to participate in the live events and
 workshops, and use the chance to interact with robotics
 scientists around the world.
 
 We will have a central virtual conference platform to host all live
 events, allow users to flexibly join workshops and paper discussion
-sessions, interact with sponsors and with each other, and manage
+sessions, interact with each other and sponsors, and manage
 registration. In addition, all accepted papers and pre-recorded talks
-will be freely available on roboticsconference.org and our RSS youtube
-channel https://www.youtube.com/channel/UCeEbAUGjtBlzmqWO5u6VeGg , as
-well as recordings of live plenary talks.
+will be freely available on [roboticsconference.org](https://roboticsconference.org) and our [RSS youtube
+channel](https://www.youtube.com/channel/UCeEbAUGjtBlzmqWO5u6VeGg), as
+will be recordings of the live plenary talks.
 
 Registration fees will be US$ 20 for students, and US$ 50 for
 non-students and give full access to the virtual conference platform,
 including the workshop and main conference events.
 
 More detailed information on registration and access to the virtual
-conference platform will be announced on roboticsconference.org by end
+conference platform will be announced on [roboticsconference.org](https://roboticsconference.org) by end
 of June.
 
 
@@ -48,7 +48,7 @@ major focus of our plenary sessions this year.
 ## Papers & pre-recorded short talks:
 
 All accepted papers and their pre-recorded talks will be available freely on
-https://roboticsconference.org/program/papers/
+[roboticsconference.org](https://roboticsconference.org/program/papers/)
 prior to the conference. The available material includes:
 
 * papers (once the online proceedings are ready)
@@ -61,7 +61,7 @@ prior to the conference. The available material includes:
 
 We have a great set of workshops this year, which will take place on
 July 12 & 13. Please see here for a full list:
-https://roboticsconference.org/program/workshops/
+[workshops](https://roboticsconference.org/program/workshops/)
 We aim to make all workshop sessions directly accessible via the
 central virtual platform. But please check the individual workshop
 pages for more detailed information.

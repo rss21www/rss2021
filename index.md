@@ -5,6 +5,69 @@ title: Home
 <h1 class="page-title">{{ site.title }}<br>
 July 12-16, 2020</h1>
 
+Dear Roboticists,
+
+RSS 2020 will be held virtually this year, on July 12-16, 2020. We
+invite all roboticists to participate in the live events and
+workshops, and use the chance to interact with robotics
+scientists around the world.
+
+We will have a central virtual conference platform to host all live
+events, allow users to flexibly join workshops and paper discussion
+sessions, interact with each other and sponsors, and manage
+registration. In addition, all accepted papers and pre-recorded talks
+will be freely available on [roboticsconference.org](https://roboticsconference.org) and our [RSS youtube
+channel](https://www.youtube.com/channel/UCeEbAUGjtBlzmqWO5u6VeGg), as
+will be recordings of the live plenary talks.
+
+Registration fees will be US$ 20 for students, and US$ 50 for
+non-students and give full access to the virtual conference platform,
+including the workshop and main conference events.
+
+More detailed information on registration and access to the virtual
+conference platform will be announced on [roboticsconference.org](https://roboticsconference.org) by end
+of June.
+
+
+## Live virtual program:
+
+The dissemination and discussion of the newest state-of-the-art
+research in robotics is the most important role of RSS. We therefore
+let *live discussion sessions of all accepted papers* take the central
+part of the RSS virtual program. All participants will have the
+opportunity to flexibly joint meeting rooms for each paper and discuss
+the work with the authors.
+
+Further, RSS awards excellence in robotics research with the Early
+Career Awards, the Best Paper, Best Student Paper, and Best Systems
+Paper awards, and -- for the first time this year -- with the Test of
+Time Award. The live keynotes and Q&As by the awardees will be the
+major focus of our plenary sessions this year.
+
+
+## Papers & pre-recorded short talks:
+
+All accepted papers and their pre-recorded talks will be available freely on
+[roboticsconference.org](https://roboticsconference.org/program/papers/)
+prior to the conference. The available material includes:
+
+* papers (once the online proceedings are ready)
+* pre-recorded short talks (once they are available on youtube)
+* links to supplementary software & videos, if available
+* and reviews (optionally)
+
+
+## Workshops
+
+We have a great set of workshops this year, which will take place on
+July 12 & 13. Please see here for a full list:
+[workshops](https://roboticsconference.org/program/workshops/)
+We aim to make all workshop sessions directly accessible via the
+central virtual platform. But please check the individual workshop
+pages for more detailed information.
+
+
+{% comment %}
 # <span style="color:red">**Update Concerning COVID-19** </span>
 
 <span style="color:red">The RSS 2020 organizing committee and the RSS foundation boards hope you are safe and well. Due to the pandemic and the uncertainty regarding travel to the US, RSS 2020 will take place **VIRTUALLY** during the original dates (July 12-16). </span>
@@ -13,19 +76,7 @@ July 12-16, 2020</h1>
 
  
 <span style="color:red">We expect to share details regarding RSS 2020 by the end of May. The official conference proceedings will be available online, as usual, and we are exploring ways to create an exciting and engaging online program. While we cannot meet physically in one place, let us stay connected as a community and support the open scientific discourse that is the hallmark of RSS. </span>
-
-
-## RSS
-
-The {{site.title}} has a long history of bringing together researchers in all
-areas of robotics from around the world for an engaging and focused week of
-single-track presentations, workshops, poster sessions, tutorials, and fun!
-This year, once again, we solicit your best work. 
-
-## Conference Location
-
-<span style="color:red">~~Oregon State University at Corvallis, Oregon.~~</span>
-
+{% endcomment %}
 
 
 <table class="table">
@@ -58,34 +109,23 @@ This year, once again, we solicit your best work.
         <td colspan="2"><p style="text-decoration: line-through;">April 16th, 2020 </p> beginning of May, 2020</td>
         <td>Paper Acceptance Notification</td>
       </tr>
-      <tr>
-        <td colspan="2">TBD</td>
-        <td>Early Registration Deadline</td>
-      </tr>
-      <tr>
-        <td colspan="2">TBD</td>
-        <td>Registration Deadline</td>
-      </tr>
 	  <tr>
         <td colspan="2">July 11th, 2020</td>
         <td><a href="https://sites.google.com/view/rsspioneers2020/home">Pioneers Workshop </a></td>
       </tr>
 	  <tr>
         <td colspan="2">July 12th - 13th, 2020</td>
-        <td>Workshops</td>
+        <td><a href="https://roboticsconference.org/program/workshops/">Workshops</a></td>
       </tr>
       <tr>
         <td colspan="2">July 14th - 16th, 2020</td>
         <td>Main Conference</td>
       </tr>
-      <tr>
-        <td colspan="2">July 15th, 2020</td>
-        <td>Banquet</td>
-      </tr>
-      
     </tbody>
   </table>
 
   The website of the 2019 RSS conference can be found [here](http://rss2019.informatik.uni-freiburg.de).
 
+{% comment %}
 {% include sponsors.html %}
+{% endcomment %}
