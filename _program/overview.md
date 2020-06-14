@@ -5,13 +5,20 @@ description: Overview of the program.
 priority: 10
 ---
 
-<i>Rough schedule:</i>
-{% comment %}
-<object data="schedule-crop.pdf" width="600" height="600" type='application/pdf'/>
-{% endcomment %}
+We will have a central virtual conference platform to host all live
+events, allow users to flexibly join workshops and paper discussion
+sessions, interact with each other and sponsors, and manage
+registration. In addition, all accepted papers and pre-recorded talks
+will be freely available on [roboticsconference.org](https://roboticsconference.org) and our [RSS youtube
+channel](https://www.youtube.com/channel/UCeEbAUGjtBlzmqWO5u6VeGg), as
+will be recordings of the live plenary talks.
+
+Below is a preliminary live event schedule. Please understand that this may subject to major changes. Once the central conference platform is up and running, the schedule will be maintained there.
+
+<br></br>
 
 <img src="{{ site.baseurl }}/images/schedule-crop.jpg"
-       alt="Rough Schedule" width = "700" /> 
+       alt="Preliminary Virtual Event Schedule" width = "700" /> 
 
 
 {% comment %}

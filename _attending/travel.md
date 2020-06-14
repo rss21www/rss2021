@@ -3,7 +3,7 @@ layout: page
 title: Virtual Attendance
 description: How to get to OSU.
 Priority: 3
-invisible: false
+invisible: true
 ---
 
 # <span style="color:red">**Update Concerning COVID-19** </span>

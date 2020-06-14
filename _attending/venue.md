@@ -3,6 +3,7 @@ layout: page
 title: Venue
 description: The awesome place we're holding our conference.
 priority: 9
+invisible: true
 ---
 
 
