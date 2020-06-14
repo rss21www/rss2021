@@ -15,7 +15,7 @@ will be recordings of the live plenary talks.
 
 Below is a preliminary live event schedule. Please understand that this may subject to major changes. Once the central conference platform is up and running, the schedule will be maintained there.
 
-<br></br>
+<br>
 
 <img src="{{ site.baseurl }}/images/schedule-crop.jpg"
        alt="Preliminary Virtual Event Schedule" width = "700" /> 

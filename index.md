@@ -29,7 +29,7 @@ conference platform will be announced on [roboticsconference.org](https://roboti
 of June.
 
 
-## Live virtual program:
+### Live virtual program:
 
 The dissemination and discussion of the newest state-of-the-art
 research in robotics is the most important role of RSS. We therefore
@@ -45,7 +45,7 @@ Time Award. The live keynotes and Q&As by the awardees will be the
 major focus of our plenary sessions this year.
 
 
-## Papers & pre-recorded short talks:
+### Papers & pre-recorded short talks:
 
 All accepted papers and their pre-recorded talks will be available freely on
 [roboticsconference.org](https://roboticsconference.org/program/papers/)
@@ -57,7 +57,7 @@ prior to the conference. The available material includes:
 * and reviews (optionally)
 
 
-## Workshops
+### Workshops
 
 We have a great set of workshops this year, which will take place on
 July 12 & 13. Please see here for a full list:
@@ -78,6 +78,7 @@ pages for more detailed information.
 <span style="color:red">We expect to share details regarding RSS 2020 by the end of May. The official conference proceedings will be available online, as usual, and we are exploring ways to create an exciting and engaging online program. While we cannot meet physically in one place, let us stay connected as a community and support the open scientific discourse that is the hallmark of RSS. </span>
 {% endcomment %}
 
+### Timeline
 
 <table class="table">
     <thead>
