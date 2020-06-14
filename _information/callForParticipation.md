@@ -5,8 +5,6 @@ description: RSS Call for Participation
 invisible: false
 ---
 
-Dear Roboticists,
-
 RSS 2020 will be held virtually this year, on July 12-16, 2020. We
 invite all roboticists to participate in the live events and
 workshops, and use the chance to interact with robotics
