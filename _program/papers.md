@@ -18,7 +18,7 @@ invisible: true
   background-position: 10px 10px;
   background-repeat: no-repeat;
   width: 100%;
-  font-size: 16px;
+  font-size: 100%;
   padding: 12px 20px 12px 40px;
   border: 1px solid #ddd;
   margin-bottom: 12px;
@@ -28,7 +28,7 @@ invisible: true
   border-collapse: collapse;
   width: 100%;
   border: 1px solid #ddd;
-  font-size: 18px;
+  font-size: 100%;
 }
 
 #myTable th, #myTable td {
