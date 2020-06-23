@@ -5,7 +5,14 @@ title: Home
 <h1 class="page-title">{{ site.title }}<br>
 July 12-16, 2020</h1>
 
-Dear Roboticists,
+## NEWS and Updates
+
+* All **[accepted papers](program/papers/)** are available, including links to supplementary materials.
+* A [preliminary program](program/overview/) is available
+* Registration will open around June 30 -- registration fees will be US$ 20 for students, and US$ 50 for non-students
+
+
+### Call for Participation
 
 RSS 2020 will be held virtually this year, on July 12-16, 2020. We
 invite all roboticists to participate in the live events and
