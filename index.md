@@ -5,9 +5,10 @@ title: Home
 <h1 class="page-title">{{ site.title }}<br>
 July 12-16, 2020</h1>
 
-## NEWS and Updates
+## News and Updates
 
 * All **[accepted papers](program/papers/)** are available, including links to supplementary materials.
+* The **[workshop program](program/workshops/)** is available
 * A [preliminary program](program/overview/) is available
 * Registration will open around June 30 -- registration fees will be US$ 20 for students, and US$ 50 for non-students
 
