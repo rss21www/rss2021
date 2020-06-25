@@ -19,6 +19,27 @@ More detailed information on registration and access to the virtual
 conference platform will be announced on [roboticsconference.org](https://roboticsconference.org) by end
 of June.
 
+### Attendee Registration
+
+<script src="https://pheedloop.s3.amazonaws.com/embed/embed.js"></script>
+<link rel="stylesheet" type="text/css" href="https://pheedloop.s3.amazonaws.com/embed/embed.css" />
+
+<a class="pheedloop-popup-25930 popup-btn">Registration Main</a>
+<div id="pheedloop-embed-25930"></div>
+
+<script type="text/javascript">
+  createSection({
+    event: 'rss2020',
+    section: '25930',
+    height: 2000,
+    resize: false,
+    popup: false,
+  });
+</script>
+
+
+
+
 {% comment %}
 ### Press Passes
 
