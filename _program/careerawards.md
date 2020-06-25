@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Career Spotlight
-description: Career spotlight abstract and speaker bio.
+title: Early Career Awards
+description: Early Career Awards, keynote information and speaker bio.
 priority: 7
 invisible: true
 ---
