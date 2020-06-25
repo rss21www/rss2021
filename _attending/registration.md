@@ -7,19 +7,19 @@ invisible: false
 ---
 
 RSS 2020 will be held using a central virtual conference platform to
-host all live events, allow users to flexibly join workshops and paper
-discussion sessions, interact with each other and sponsors, and manage
-registration.
+host all live events, allow users to flexibly join all workshops,
+paper discussion sessions, the plenary sessions, interact with each
+other and sponsors, and manage attendees.
 
 Registration fees will be US$ 20 for students, and US$ 50 for
-non-students and give full access to the virtual conference platform,
+non-students, and give full access to the virtual conference platform,
 including the workshop and main conference events.
 
-More detailed information on registration and access to the virtual
-conference platform will be announced on [roboticsconference.org](https://roboticsconference.org) by end
-of June.
+Please use the form embedded below to register. Contact
+toussaint@tu-berlin.de and J.Kober@tudelft.nl if you encounter
+problems.
 
-### Attendee Registration
+### Attendee Registration Form
 
 <script src="https://pheedloop.s3.amazonaws.com/embed/embed.js"></script>
 <link rel="stylesheet" type="text/css" href="https://pheedloop.s3.amazonaws.com/embed/embed.css" />
