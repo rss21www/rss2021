@@ -9,6 +9,7 @@ July 12-16, 2020</h1>
 
 * All **[accepted papers](program/papers/)** are available, including links to supplementary materials.
 * The **[workshop program](program/workshops/)** is available
+* The [full proceedings](http://www.roboticsproceedings.org/rss16/) are available
 * A [preliminary program](program/overview/) is available
 * Registration will open around June 30 -- registration fees will be US$ 20 for students, and US$ 50 for non-students
 
