@@ -17,7 +17,7 @@ awardees in Eastern time zones will be held on the following day.
 	<th style="text-align:center;">
 	  <img src="{{site.baseurl }}/images/career_boots.jpg" width = "250"/>
            <a href="https://homes.cs.washington.edu/~bboots/">
-            Bryan Boots
+            Byron Boots
            </a>
            <br>
            <i><span style="font-weight:normal">University of Washington </span></i>
@@ -25,7 +25,7 @@ awardees in Eastern time zones will be held on the following day.
 	<th>
 	 <b>Biography:</b>
 <p style="text-align:justify; font-weight:normal;">
-
+Byron Boots is an Associate Professor in the Paul G. Allen School of Computer Science and Engineering at the University of Washington. He received his PhD from the Machine Learning Department in the School of Computer Science at Carnegie Mellon University in 2012. He joined the University of Washington as a postdoctoral researcher from 2012-2014, and was an Assistant Professor in the School of Interactive Computing at Georgia Tech from 2014-2019. His group performs fundamental and applied research in machine learning, artificial intelligence, and robotics with a focus on developing theory and systems that tightly integrate perception, learning, and control. His work has been applied to a range of problems including localization and mapping, motion planning, robotic manipulation, and high-speed navigation. Byron has received several awards including the 2010 ICML Best Paper Award, the 2018 AISTATS Best Paper Award, the 2019 RSS Best Student Paper Award, and the IJRR Paper of the Year Award for 2018. He is also the recipient of the NSF CAREER Award (2018), the Amazon Research Award (2019), and the Outstanding Junior Faculty Research Award from the College of Computing at Georgia Tech (2019).
 </p>
 </th>
 
