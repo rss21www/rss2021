@@ -8,14 +8,11 @@ July 12-16, 2020</h1>
 ## News and Updates
 
 * **[Registration](attending/registration/)** is open!
-{% comment %}
 * The RSS 2020 **[Early Career Awards](program/careerawards/)** go to: Bryan Boots, Luca Carlone, and Jeannette Bohg - Congratulations!
-{% endcomment %}
 * All **[accepted papers](program/papers/)** are available, including links to supplementary material, supplementary videos, and reviews when consent was given.
 * The **[workshop program](program/workshops/)** is available.
 * The official [proceedings](http://www.roboticsproceedings.org/rss16/) are available.
 * A [preliminary program](program/overview/) is available
-* Registration will open around June 30 -- registration fees will be US$ 20 for students, and US$ 50 for non-students
 
 
 ### Call for Participation

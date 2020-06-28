@@ -3,13 +3,13 @@ layout: page
 title: Early Career Awards
 description: Early Career Awards, keynote information and speaker bio.
 priority: 7
-invisible: true
+invisible: false
 ---
 
 It is our great pleassure to announce this year's Early Career
 Awards. The three awardees will give live plenary keynotes with Q&A on
 July 14, 15, and 16, respectively. Additional live Q&As with the
-awardees in eatern time zones will be held on the following day.
+awardees in Eastern time zones will be held on the following day.
 
 <table class="table">
 
