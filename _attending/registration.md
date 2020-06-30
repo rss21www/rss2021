@@ -15,9 +15,8 @@ Registration fees will be US$ 20 for students, and US$ 50 for
 non-students, and give full access to the virtual conference platform,
 including the workshop and main conference events.
 
-Please use the form embedded below to register. Contact
-toussaint@tu-berlin.de and J.Kober@tudelft.nl if you encounter
-problems.
+Please use the form embedded below to register. If the below form does not work, please click [here](https://pheedloop.com/register/rss2020/attendee/). Contact
+toussaint@tu-berlin.de and J.Kober@tudelft.nl if you encounter problems. 
 
 ### Attendee Registration Form
 
