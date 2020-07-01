@@ -8,13 +8,10 @@ invisible: False
 ---
 
 
-Workshops will take place July 12 and 13, 2020.
-They will commence at 9:30 AM and end at 5:30 PM.
-The workshop coffee breaks will be from 10:30 to 11:00 AM and 3:00 to 3:30 PM, with lunch scheduled for 12:00 - 2:00 PM.
+Workshops will take place July 12 and 13, 2020. They are generally scheduled to take place between 7:00AM PST and 11:15PM PST (14:00-18:15 UCT), and are recommended to have coffee breaks from 9:15-9:30AM and 11:15-11:30AM PST. However, each workshop is organized as a semi-independent event, and has a unique schedule that may deviate from the recommended schedule. Please check the workshop websites for more details on their particular schedules.
 
 {% comment %}
 [Here]({{ site.baseurl }}/docs/campusmap.pdf) is a labeled map of the workshop buildings.
-
 {% endcomment %}
 
 {% for day in page.days %}
