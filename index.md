@@ -137,6 +137,59 @@ pages for more detailed information.
 
   The website of the 2019 RSS conference can be found [here](http://rss2019.informatik.uni-freiburg.de).
 
+
+### RSS Sponsors
+
+<html>
+
+<table width="100%">
+
+<tr>
+<td style="width: 30%; text-align: center;">
+<a href="http://www.tri.global/">
+  <img width="90%" src="{{ site.baseurl }}/images/sponsors/tri.png"
+       alt="Toyota Research Institute"/> </a>
+</td>
+
+<td style="width: 30%; text-align: center;">
+<a href="https://www.amazon.science/">
+  <img width="90%" src="{{ site.baseurl }}/images/sponsors/amazon_logo_RGB.png"
+       alt="Amazon Robotics"/></a>
+</td>
+
+<td style="width: 30%; text-align: center;">
+<a href="https://clearpathrobotics.com/">
+  <img width="90%" src="{{ site.baseurl }}/images/sponsors/Clearpath-Logo-Q309---Short-Run_Colour_Trans.png" alt="Clearpath Robotics"/> </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 30%; text-align: center;">
+<a href="https://research.fb.com/">
+  <img width="90%" src="{{ site.baseurl }}/images/sponsors/Facebook-Wordmark-Gray.png"
+       alt="Facebook Research"/> </a>
+</td>
+
+<td style="width: 30%; text-align: center;">
+<a href="https://www.nvidia.com/en-us/research/">
+  <img width="90%" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
+       alt="NVDIA"/> </a>
+
+</td>
+
+<td style="width: 30%; text-align: center;">
+	<a href="https://robotics.sciencemag.org/">
+  	<img width="90%" src="{{ site.baseurl }}/images/sponsors/ScienceRobotics-AAAS stacked color.jpg" alt="Science Robotics"/> </a>
+</td>
+</tr>
+</table>
+
+</html>
+
+
+
 {% comment %}
 {% include sponsors.html %}
 {% endcomment %}
