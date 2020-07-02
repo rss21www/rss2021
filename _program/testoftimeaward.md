@@ -61,9 +61,7 @@ Please joint the awardee's keynote on July 14, 10:00 PT:
 <th style="text-align:center;">
 	<img src="https://www.cc.gatech.edu/~dellaert/FrankDellaert/Frank_Dellaert/Frank_Dellaert_files/shapeimage_3.png" width = "250"/>
 	<br>
-	<a href="https://www.cc.gatech.edu/~dellaert">
-		Frank Dellaert
-	</a>, with Sam
+	<a href="https://www.cc.gatech.edu/~dellaert">Frank Dellaert</a>, with Sam
 	<br>
 	<i><span style="font-weight:normal">Georgia Institute of Technology</span></i>
 </th>
