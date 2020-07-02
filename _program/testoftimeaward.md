@@ -6,20 +6,21 @@ priority: 7
 invisible: false
 ---
 
-RSS 2020 introduce the new **RSS Test of Time Award** given to highest
+RSS 2020 introduces the new **RSS Test of Time Award** given to highest
 impact papers published at RSS (and potentially journal versions
 thereof) from at least ten years ago. Impact may mean that it changed
 how we think about problems or about robotic design, that it brought
 fully new problems to the attention of the community, or that it
 pioneered new approach to robotic design or problem solving.
 
-With this award we want to foster the discussion of the long term
-development of our field. The award is an opportunity to reflect on
-and discuss the past, which is essential to make progress in the
-future. The awardee's keynote is therefore complemented with a Test of
-Time Panel session devoted to this important discussion.
+With this award, RSS generally wants to foster the discussion of the
+long term development of our field. The award is an opportunity to
+reflect on and discuss the past, which is essential to make progress in
+the future. The awardee's keynote is therefore complemented with a
+Test of Time Panel session devoted to this important discussion.
 
-It is our great pleassure to announce that this year's Test of Time
+
+It is our great pleasure to announce that this year's Test of Time
 Awards goes to the pair of papers:
 
 * **Frank Dellaert**:  [Square  Root  SAM](http://www.roboticsproceedings.org/rss01/p24.html). Proceedings of Robotics: Science and Systems I, 2005.

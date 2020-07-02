@@ -6,7 +6,7 @@ priority: 7
 invisible: false
 ---
 
-It is our great pleassure to announce this year's Early Career
+It is our great pleasure to announce this year's Early Career
 Awards. The three awardees will give live plenary keynotes with Q&A on
 July 14, 15, and 16, respectively. Additional live Q&As with the
 awardees in Eastern time zones will be held on the following day.
