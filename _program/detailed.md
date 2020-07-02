@@ -6,7 +6,7 @@ priority: 9
 invisible: true
 ---
 
-Please find the [workshop program]({{ site.baseurl }}/program/workshops/) and the [virtual conference](https://pheedloop.com/rss2020/virtual/) separately.
+Please find the [workshop program]({{ site.baseurl }}/program/workshops/) and the [virtual conference site](https://pheedloop.com/rss2020/virtual/) separately.
 
 ### Overview
 
