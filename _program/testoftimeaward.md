@@ -34,22 +34,26 @@ Awards goes to the pair of papers:
 
 Please joint the awardee's keynote on July 14, 10:00 PT:
 
-<b>Title: *Factor Graphs: Exploiting Structure in Robotics*</b>
+<b>Title: *From Square Root SAM to GTSAM: Factor Graphs in Robotics*</b>
 
-**Abstract:** Many estimation, planning and optimal control problems in
-robotics have an optimization problem at their core. In most of these
-optimization problems, the objective function is composed of many
-different factors or terms that are local in nature, i.e., they only
-depend on a small subset of the variables. A particularly insightful
-way of modeling this locality structure is using the concept of factor
-graphs, a bipartite graphical model in which factors represent
-functions on subsets of variables. Factor graphs can represent a wide
-variety of problems across robotics, expose opportunities to improve
-computational performance, and are beneficial in designing and
-thinking about how to model a problem, even aside from performance
-considerations. We discuss each of these three aspects in detail, and
-review a number of state of the art robotics applications in which
-factor graphs have been used with great success.
+**Abstract:** Many estimation, planning and optimal control problems
+  in robotics have an optimization problem at their core. In most of
+  these optimization problems, the objective function is composed of
+  many different factors or terms that are local in nature, i.e., they
+  only depend on a small subset of the variables. 10 years ago the
+  Square Root SAM papers identified factor graphs as a particularly
+  insightful way of modeling this locality structure. Since then we
+  have realized that factor graphs can represent a wide variety of
+  problems across robotics, expose opportunities to improve
+  computational performance, and are beneficial in designing and
+  thinking about how to model a problem, even aside from performance
+  considerations. Many of these principles have been embodied in our
+  evolving open source package GTSAM, which puts factor graphs front
+  and central, and which has been used with great success in a number
+  of state of the art robotics applications. We will also discuss
+  where factor graphs, in our opinion, can break into other fields of
+  robotics besides mapping and state estimation, where these graphical
+  models have typically excelled.
 
 <table class="table">
 
@@ -59,7 +63,7 @@ factor graphs have been used with great success.
 	<br>
 	<a href="https://www.cc.gatech.edu/~dellaert">
 		Frank Dellaert
-	</a>
+	</a>, with Sam
 	<br>
 	<i><span style="font-weight:normal">Georgia Institute of Technology</span></i>
 </th>

@@ -46,3 +46,5 @@ GTAGS
 GPATH
 deploy.sh
 .jekyll-cache
+
+run.sh
