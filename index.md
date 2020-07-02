@@ -190,7 +190,7 @@ pages for more detailed information.
 </td>
 <td>
 <a href="https://waymo.com/">
-  <img width="90%" src="{{ site.baseurl }}/images/sponsors/waymo.png"
+  <img width="90%" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
        alt="Waymo"/> </a>
 </td>
 </tr>
