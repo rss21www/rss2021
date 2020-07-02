@@ -185,6 +185,15 @@ pages for more detailed information.
   	<img width="90%" src="{{ site.baseurl }}/images/sponsors/ScienceRobotics-AAAS stacked color.jpg" alt="Science Robotics"/> </a>
 </td>
 </tr>
+<tr>
+<td>
+</td>
+<td>
+<a href="https://waymo.com/">
+  <img width="90%" src="{{ site.baseurl }}/images/sponsors/waymo.png"
+       alt="Waymo"/> </a>
+</td>
+</tr>
 </table>
 
 </html>

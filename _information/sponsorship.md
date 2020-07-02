@@ -54,11 +54,15 @@ Please contact Bill Smart <Bill.Smart@oregonstate.edu> and Hadas Kress-Gazit <ha
 
 </table>
 
-<table class="center" width="75%">
+<table class="center" width="100%">
 
 <tr>
 
 <td width="10%">
+
+<a href="https://waymo.com/">
+  <img width="90%" src="{{ site.baseurl }}/images/sponsors/waymo.png"
+       alt="Waymo"/> </a>
 </td>
 
 <td style="width: 10%; text-align: center;">
@@ -76,10 +80,6 @@ Please contact Bill Smart <Bill.Smart@oregonstate.edu> and Hadas Kress-Gazit <ha
 
 </tr>
 
-<tr>
-
-
-</tr>
 
 
 </table>
