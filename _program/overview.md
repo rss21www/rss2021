@@ -3,6 +3,7 @@ layout: page
 title: Overview
 description: Overview of the program.
 priority: 10
+invisible: true
 ---
 
 We will have a central virtual conference platform to host all live

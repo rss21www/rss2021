@@ -3,10 +3,18 @@ layout: page
 title: Detailed Program
 description: Detailed schedule of the program.
 priority: 9
-invisible: true
+invisible: false
 ---
 
-Please find the [workshop program]({{ site.baseurl }}/program/workshops/) and the [virtual conference site](https://pheedloop.com/rss2020/virtual/) separately.
+* Our [**virtual conference site**](https://pheedloop.com/rss2020/virtual/)
+hosts all live events, allows users to flexibly join workshops and
+paper discussion sessions, interact with each other and sponsors, and
+manages registration.
+* All [**accepted papers with pre-recorded presentations**]({{ site.baseurl
+}}/program/papers/) are now available.
+* Our [**RSS youtube channel**](https://www.youtube.com/channel/UCeEbAUGjtBlzmqWO5u6VeGg) hosts all pre-recorded presentations, and will host recordings of the
+live plenary sessions.
+* Please find the [**workshop program**]({{ site.baseurl }}/program/workshops/) separately.
 
 ### Overview
 
