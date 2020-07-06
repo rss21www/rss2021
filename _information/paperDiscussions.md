@@ -17,7 +17,7 @@ search for your session (In the Sessions section, search for your
 name/title, or choose filter 'Track Papers'.)
 
 First check the general description and embedded pre-recorded talk. At
-the bottom of the description you should also find the raw zoom link,
+the bottom of the description you should also find the full zoom link,
 which should be the same send to you by email when we scheduled your
 meeting. (You could also retrieve it by logging into zoom.us with the
 Email associated to our RSS zoom account.)
@@ -58,13 +58,11 @@ much to use the first option:
   start and host the session at the right time on July 14, 15, or 16
   yourself. This is the easiest option and will ensure you having full
   control (being host) of the zoom meeting.
-2. Option 2) You can use your own zoom license, and tell us the
-  meeting ID & passwd (or link) to embed in the virtual conference
+2. Option 2) You can use your own zoom license, and tell us the meeint
+  URL, meeting ID & meeting passwd to embed in the virtual conference
   platform. This option is fine, and you have full control over your
-  meeting (being host). But this might have the drawback that users
-  might have to enter a captcha whenever they want to enter your
-  meeting via the platform. And you need your own license (not the
-  time-limited free license).
+  meeting (being host). But then you need your own license (not a
+  time-limited free license) and ensure to setup the meeting.
 3. Non-preferred Option 3) We let a student helper own your zoom
   meeting. The student helper starts and hosts the meeting at the
   right time, but then needs to reach out for you to make you host
@@ -76,10 +74,10 @@ Email inviting you to our Zoom business account -- assuming that you
 follow Option 1. If another author wants to be the lead and host of
 your paper discussion session, please let us know by Email!
 
-There is a **caveat** when enrolling as user with our Zoom account: Your
-email address might already be associated with another professional
-zoom account (e.g., of your university). You cannot use the same Email
-address twice to enroll as user to a professional zoom
+There is a **caveat** when enrolling as user with our Zoom account:
+Your email address might already be associated with another
+professional zoom account (e.g., of your university). You cannot use
+the same Email address twice to enroll as user to a professional zoom
 account. Therefore, in that case, please send us an alternative email
 address to make you user of our zoom.
 
