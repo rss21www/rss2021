@@ -6,8 +6,8 @@ priority: 9
 invisible: false
 ---
 
-<b>The most urtent next step right now is the setup of zoom
-meetings for all -- see below.</b>
+<b>The most urgent next step right now is the setup of zoom
+meetings for all -- please see below.</b>
 
 ### Checking that your session information and zoom meeting is readily setup before July 14
 
