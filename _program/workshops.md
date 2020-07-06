@@ -14,6 +14,9 @@ Workshops will take place July 12 and 13, 2020. They are generally scheduled to 
 [Here]({{ site.baseurl }}/docs/campusmap.pdf) is a labeled map of the workshop buildings.
 {% endcomment %}
 
+
+
+
 {% for day in page.days %}
 {% if day == 'SUN' %}
 #### Sunday, July 12  {#sun}
@@ -28,12 +31,32 @@ Workshops will take place July 12 and 13, 2020. They are generally scheduled to 
       <th width="15%" align="center">WS</th>
       <th width="36%">Title</th>
       <th width="30%">Organizers</th>
+{% comment %}
       <th width="20%">Full/Half Day</th>
+{% endcomment %}
     </tr>
   </thead>
   <tbody>
     {% for workshop in site.data.workshops %}
     {% if workshop.date contains day %}
+
+	{% if workshop.external_id == 'WS1-1' %}
+       <tr>
+      <td> <s> {{ workshop.external_id }} </s></td>
+      <td> <s>
+        <a href="{{ workshop.url }}">
+          {{ workshop.title }}
+        </a> </s>
+      </td>
+      <td>
+	<s>
+        {{ workshop.organizers | replace: ',', '<br/>' }}
+ 	</s>
+      </td>
+     
+          </tr>
+    
+    {% else %}
     <tr>
       <td>{{ workshop.external_id }}</td>
       <td>
@@ -43,11 +66,15 @@ Workshops will take place July 12 and 13, 2020. They are generally scheduled to 
       </td>
       <td>
         {{ workshop.organizers | replace: ',', '<br/>' }}
-      </td>
-      <td> {{ workshop.day }} </td>          
+      </td>     
+{% comment %}
+<td> {{ workshop.day }} </td>
+{% endcomment %} 
     </tr>
+	{% endif %}
     {% endif %}
     {% endfor %}
   </tbody>
 </table>
 {% endfor %}
+
