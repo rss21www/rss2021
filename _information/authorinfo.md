@@ -2,7 +2,7 @@
 layout: page
 title: Author Information
 description: Instructions for paper submission.
-priority: 10
+priority: 8
 ---
 
 <p class="message">
