@@ -51,13 +51,18 @@ All times below are given in **Coordinated Universal Time (UTC)**.
     <td>
       <b>Live Paper Discussions #1-34</b>
 	  <br/>
-	  {% for paper in site.data.rss2020_papers %}
-	  {% assign tmp = paper.PaperOrder | plus: 0 %}
+	  <div style="font-size:90%;">
+	  {% for paper in site.data.CameraReadyIntegration %}
+	  {% assign tmp = paper.PaperId | plus: 0 %}
       {% if tmp < 35 %}
-	  #{{paper.PaperOrder }} <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperOrder}}/">{{paper.PaperTitle}}</a>
+	  #{{tmp}}
+	  <a href="{{site.baseurl}}/program/papers/{{paper.PaperId}}/" title="paper details">{{paper.PaperTitle}}</a>
+	  <a href="http://www.roboticsproceedings.org/rss16/p{{paper.PaperIdZeros}}.pdf" title="pdf" style="color:#4040a0;">[pdf]</a>
+	  <a href="https://www.youtube.com/watch?v={{paper.YouTube}}" title="Pre-recorded Presentation on Youtube" style="color:#4040a0;">[talk]</a>
 	  <br/>
       {% endif %}
 	  {% endfor %}
+	  </div>
     </td>
   </tr>
   <tr>
@@ -100,17 +105,22 @@ All times below are given in **Coordinated Universal Time (UTC)**.
     </td>
   </tr>
   <tr>
-    <td width="140px">15:00 - 17:00 PT</td>
+    <td width="140px">15:00 - 17:00 UTC</td>
     <td>
       <b>Live Paper Discussions #35-69</b>
 	  <br/>
-	  {% for paper in site.data.rss2020_papers %}
-	  {% assign tmp = paper.PaperOrder | plus: 0 %}
+	  <div style="font-size:90%;">
+	  {% for paper in site.data.CameraReadyIntegration %}
+	  {% assign tmp = paper.PaperId | plus: 0 %}
       {% if tmp >= 35 and tmp < 70 %}
-	  #{{paper.PaperOrder }} <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperOrder}}/">{{paper.PaperTitle}}</a>
+	  #{{tmp}}
+	  <a href="{{site.baseurl}}/program/papers/{{paper.PaperId}}/" title="paper details">{{paper.PaperTitle}}</a>
+	  <a href="http://www.roboticsproceedings.org/rss16/p{{paper.PaperIdZeros}}.pdf" title="pdf" style="color:#4040a0;">[pdf]</a>
+	  <a href="https://www.youtube.com/watch?v={{paper.YouTube}}" title="Pre-recorded Presentation on Youtube" style="color:#4040a0;">[talk]</a>
 	  <br/>
       {% endif %}
 	  {% endfor %}
+	  </div>
     </td>
   </tr>
   <tr>
@@ -154,17 +164,22 @@ All times below are given in **Coordinated Universal Time (UTC)**.
     </td>
   </tr>
   <tr>
-    <td width="140px">15:00 - 17:00 PT</td>
+    <td width="140px">15:00 - 17:00 UTC</td>
     <td>
       <b>Live Paper Discussions #70-103</b>
 	  <br/>
-	  {% for paper in site.data.rss2020_papers %}
-	  {% assign tmp = paper.PaperOrder | plus: 0 %}
+	  <div style="font-size:90%;">
+	  {% for paper in site.data.CameraReadyIntegration %}
+	  {% assign tmp = paper.PaperId | plus: 0 %}
       {% if tmp >= 70 %}
-	  #{{paper.PaperOrder }} <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperOrder}}/">{{paper.PaperTitle}}</a>
+	  #{{tmp}}
+	  <a href="{{site.baseurl}}/program/papers/{{paper.PaperId}}/" title="paper details">{{paper.PaperTitle}}</a>
+	  <a href="http://www.roboticsproceedings.org/rss16/p{{paper.PaperIdZeros}}.pdf" title="pdf" style="color:#4040a0;">[pdf]</a>
+	  <a href="https://www.youtube.com/watch?v={{paper.YouTube}}" title="Pre-recorded Presentation on Youtube" style="color:#4040a0;">[talk]</a>
 	  <br/>
       {% endif %}
 	  {% endfor %}
+	  </div>
     </td>
   </tr>
   <tr>
