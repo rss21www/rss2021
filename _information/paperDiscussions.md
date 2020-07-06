@@ -6,20 +6,41 @@ priority: 9
 invisible: false
 ---
 
-This page will soon contain more information on the live paper
-discussion sessions. The most urtent next step is the setup of zoom
-meetings for all:
+<b>The most urtent next step right now is the setup of zoom
+meetings for all -- see below.</b>
 
-## Starting your zoom meeting on July 14/15/16
+### Checking that your session information and zoom meeting is readily setup before July 14
 
-Once the zoom meeting for your paper discussion session is
-setup. You'll have to start it as host at 15:00 UTC on the day of your
-paper discussion session. For this you need the full zoom link -- you
-received this by email when we scheduled your meeting; or you can
-retrieve it by logging into zoom.us with the Email associated to the
-RSS zoom account.
+Log into our
+[virtual conference site](https://pheedloop.com/rss2020/virtual/) and
+search for your session (In the Sessions section, search for your
+name/title, or choose filter 'Track Papers'.)
 
-## Zoom Meeting setup
+First check the general description and embedded pre-recorded talk. At
+the bottom of the description you should also find the raw zoom link,
+which should be the same send to you by email when we scheduled your
+meeting. (You could also retrieve it by logging into zoom.us with the
+Email associated to our RSS zoom account.)
+
+Once your session is activated, that same zoom link should also be
+behind the embedded zoom window.
+
+
+### Starting your zoom meeting on July 14/15/16
+
+We recommend that you start your zoom meeting some minutes before the
+live paper discussion sessions. And we recommend that -- unlike the
+reset of the conference -- you use a desktop client application to
+start you zoom session directly using the zoom link, and your zoom
+user email. (You can start the session also directly from within
+pheedloop, but the desktop client might give more functionality.)
+
+You'll have to start it as host at 15:00 UTC on the day of your
+discussion session.
+
+
+
+### Zoom Meeting setup
 
 Your live paper discussion sessions on July 14, 15, and 16 will be
 held with zoom meetings that are directly accessible from the virtual
