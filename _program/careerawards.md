@@ -22,6 +22,8 @@ awardees in Eastern time zones will be held on the following day.
 	</a>
 	<br>
 	<i><span style="font-weight:normal">University of Washington </span></i>
+	<br/>
+	<b>July 14, 18:30 UTC</b>
 </th>
 <th>
 	<b>Biography:</b>
@@ -59,8 +61,28 @@ College of Computing at Georgia Tech (2019).
 	</a>
 	<br>
 	<i><span style="font-weight:normal">Massachusetts Institute of Technology </span></i>
+	<br/>
+	<b>July 15, 18:30 UTC</b>
 </th>
 <th>
+	<b>Title:</b>
+	<p style="text-align:justify; font-weight:normal;">
+The Future of Robot Perception: Certifiable Algorithms and Real-time High-level Understanding
+</p>
+
+	<b>Abstract:</b>
+	<p style="text-align:justify; font-weight:normal;">
+
+Robot perception has witnessed an unprecedented progress in the last decade. Robots are now able to detect objects and create large-scale maps of an unknown environment, which are crucial capabilities for navigation, manipulation, and human-robot interaction. Despite these advances, both researchers and practitioners are well aware of the brittleness of current perception systems, and a large gap still separates robot and human perception. 
+<br/>
+This talk discusses two efforts targeted at bridging this gap. The first focuses on robustness. I present recent advances in the design of certifiable perception algorithms that are robust to extreme amounts of noise and outliers and afford performance guarantees. I present fast certifiable algorithms for object pose estimation: our algorithms are “hard to break” (e.g., are robust to 99% outliers) and succeed in localizing objects where an average human would fail. Moreover, they come with a “contract” that guarantees their input-output performance. I discuss the foundations of certifiable perception and motivate how these foundations can lead to safer systems.
+<br/>
+The second effort targets high-level understanding. While humans are able to quickly grasp both geometric, semantic, and physical aspects of a scene, high-level scene understanding remains a challenge for robotics. I present our work on real-time metric-semantic understanding and 3D Dynamic Scene Graphs. I introduce the first generation of Spatial Perception Engines, that extend the traditional notions of mapping and SLAM, and allow a robot to build a “mental model” of the environment, including spatial concepts (e.g., humans, objects, rooms, buildings) and their relations at multiple levels of abstraction.
+<br/>
+Certifiable algorithms and real-time high-level understanding are key enablers for the next generation of autonomous systems, that are trustworthy, understand and execute high-level human instructions, and operate in large dynamic environments and over and extended period of time.
+
+</p>
+
 	<b>Biography:</b>
 	<p style="text-align:justify; font-weight:normal;">
 	
@@ -105,6 +127,8 @@ College of Computing at Georgia Tech (2019).
 	</a>
 	<br>
 	<i><span style="font-weight:normal">Standford University </span></i>
+	<br/>
+	<b>July 16, 17:00 UTC</b>
 </th>
 <th>
 	<b>Biography:</b>

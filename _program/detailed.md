@@ -66,16 +66,15 @@ All times below are given in **Coordinated Universal Time (UTC)**.
       <b>Test of Time Award Talk + Q&A</b>
       <br/>Speakers: Frank Dellaert, Michael Kaess
       <br/>Moderator: Marc Toussaint
+	  <br/>Title: <i>From Square Root SAM to GTSAM: Factor Graphs in Robotics</i>
     </td>
   </tr>
   <tr>
     <td width="140px">17:45 - 18:15 UTC</td>
     <td>
       <b>Test of Time Pabel Debate</b>
-      <br/>Panelists: TBA
-	  {% comment %}
-	  Frank Dellaert, Michael Kaess, Marc Toussaint
-	  {% endcomment %}
+      <br/>Panelists: Frank Dellaert, Michael Kaess, Danica Kragic, Gaurav Sukhatme
+	  <br/>Moderator: Marc Toussaint
     </td>
   </tr>
   <tr>
@@ -120,6 +119,8 @@ All times below are given in **Coordinated Universal Time (UTC)**.
       <b>Keynote + Q&A</b>
       <br/>Speaker: Josh Tenenbaum
       <br/>Moderator: Marc Toussaint
+	  <br/>Title: <i>It's all in your head: Intuitive physics, planning, and problem-solving in brains, minds and machines</i>
+
     </td>
   </tr>
   <tr>
@@ -134,6 +135,8 @@ All times below are given in **Coordinated Universal Time (UTC)**.
       <b>Early Career Award Keynote + Q&A</b>
       <br/>Speaker: Luca Carlone
       <br/>Moderator: Angela Schoellig
+  <br/>Title: <i>The Future of Robot Perception: Certifiable Algorithms and Real-time High-level Understanding</i>
+
     </td>
   </tr>
 </table>

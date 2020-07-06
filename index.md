@@ -5,9 +5,13 @@ title: Home
 <h1 class="page-title">{{ site.title }}<br>
 July 12-16, 2020</h1>
 
+[**<center>Join all live events at the virtual conference site https://pheedloop.com/rss2020/virtual/</center>**](https://pheedloop.com/rss2020/virtual/)
+
+
 ## News and Updates
 
 * **[Registration](attending/registration/)** is open!
+* The [**Keynote Talk**](program/keynote/) is by Josh Tenenbaum
 * The [**detailed program**](program/detailed/) is available
 * The RSS 2020 **[Test of Time Award](program/testoftimeaward/)** goes to paper(s) by Frank Dellaert and Michael Kaess - Congratulations!
 * The RSS 2020 **[Early Career Awards](program/careerawards/)** go to: Byron Boots, Luca Carlone, and Jeannette Bohg - Congratulations!
