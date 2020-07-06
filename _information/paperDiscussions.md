@@ -10,6 +10,15 @@ This page will soon contain more information on the live paper
 discussion sessions. The most urtent next step is the setup of zoom
 meetings for all:
 
+## Starting your zoom meeting on July 14/15/16
+
+Once the zoom meeting for your paper discussion session is
+setup. You'll have to start it as host at 15:00 UTC on the day of your
+paper discussion session. For this you need the full zoom link -- you
+received this by email when we scheduled your meeting; or you can
+retrieve it by logging into zoom.us with the Email associated to the
+RSS zoom account.
+
 ## Zoom Meeting setup
 
 Your live paper discussion sessions on July 14, 15, and 16 will be
