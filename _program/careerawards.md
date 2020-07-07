@@ -131,7 +131,27 @@ Certifiable algorithms and real-time high-level understanding are key enablers f
 	<b>July 16, 17:00 UTC</b>
 </th>
 <th>
-	<b>Biography:</b>
+
+<b>Title:</b>
+	<p style="text-align:justify; font-weight:normal;">
+A Tale of Success and Failure in Robotics Grasping and Manipulation
+</p>
+
+<b>Abstract:</b>
+	<p style="text-align:justify; font-weight:normal;">
+
+In 2007, I was a naïve grad student and started to work on vision-based robotic grasping. I had no prior background in manipulation, kinematics, dynamics or control. Yet, I dove into the field by re-implementing and improving a learning-based method. While making some contributions, the proposed method also had many limitations partly due to the way the problem was framed. 
+
+Looking back at the entire journey until today, I find that I have learned the most about robotic grasping and manipulation from observing failures and limitations of existing approaches - including my own. In this talk, I want to highlight how these failures and limitations have shaped my view on what may be some of the underlying principles of autonomous robotic manipulation.
+
+I will emphasise three points. First, perception and prediction will always be noisy, partial and sometimes just plain wrong. Therefore, one focus of my research is on methods that support decision-making under uncertainty due to noisy sensing, inaccurate models and hard-to-predict dynamics. To this end, I will present a robotic system that demonstrates the importance of continuous, real-time perception and its tight integration with reactive motion generation methods. I will also talk about work that funnels uncertainty by enabling robots to exploit contact constraints during manipulation. 
+
+Second, a robot has many more sensors than just cameras and they all provide complementary information. Therefore, one focus of my research is on methods that can exploit multimodal information such as vision and touch for contact-rich manipulation. It is non-trivial to manually design a manipulation controller that combines modalities with very different characteristics. I will present work that uses self-supervision to learn a compact and multimodal representation of visual and haptic sensory inputs, which can then be used to improve the sample efficiency of policy learning. 
+
+And third, choosing the right robot action representation has a large influence on the success of a manipulation policy, controller or planner. While believing many years that inferring contact points for robotic grasping is futile, I will present work that convinced me otherwise. Specifically, this work uses contact points as an abstraction that can be re-used by a diverse set of robot hands.
+</p>
+
+<b>Biography:</b>
 	<p style="text-align:justify; font-weight:normal;">
 	
 	Jeannette Bohg is an Assistant Professor of Computer Science at Stanford
