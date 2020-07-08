@@ -6,6 +6,20 @@ priority: 10
 invisible: true
 ---
 
+<center><i>Thank you for joining the first virtual RSS!</i></center>
+
+The virtual conference will be held on [**https://pheedloop.com/rss2020/virtual/**](https://pheedloop.com/rss2020/virtual/). Here we provide general help for attendees:
+
+* Our Code of Conduct
+* Getting support during the conference
+* Technical Help (e.g., on browser, and avoiding CAPTCHAs)
+
+## Support during the conference
+
+We will setup a live chat for you to get support during the conference. More information will follow soon.
+
+## Technical Help
+
 ### Prefer a Chrome/Chromuim browser
 
 The embedded zoom windows can properly be made full screen and all
