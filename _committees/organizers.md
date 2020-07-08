@@ -24,6 +24,10 @@ description: Organizing team.
             <i>Oregon State University</i><br>
             <br>
             <b>Publicity Chair</b><br>
+            <a href="https://patricialvesoliveira.com/">Patrícia Alves-Oliveira</a><br>
+            <i>ISCTE-IU, INESC-ID, and Cornell University</i><br>
+            <a href="http://valentinp.com/">Valentin Peretroukhin</a><br>
+            <i>University of Toronto</i><br>
             <a href="https://bicr.atr.jp/~xmorimo/">Jun Morimoto</a><br>
             <i>ATR Computational Neuroscience Laboratories</i><br>
             <br>
