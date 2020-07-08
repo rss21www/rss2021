@@ -3,14 +3,19 @@ layout: page
 title: Instructions for Conference Attendees
 description: 
 priority: 10
-invisible: true
+invisible: false
 ---
 
 <center><i>Thank you for joining the first virtual RSS!</i></center>
 
-The virtual conference will be held on [**https://pheedloop.com/rss2020/virtual/**](https://pheedloop.com/rss2020/virtual/). Here we provide general help for attendees:
+<br/>
 
-* Our Code of Conduct
+The virtual conference will be held on
+[**https://pheedloop.com/rss2020/virtual/**](https://pheedloop.com/rss2020/virtual/). When
+attending the conference, please respect the
+[**RSS 2020 Code of Conduct**](../codeOfConduct/). Here we provide general
+help for attendees:
+
 * Getting support during the conference
 * Technical Help (e.g., on browser, and avoiding CAPTCHAs)
 

@@ -2,7 +2,7 @@
 layout: page
 title: RSS 2020 Code of Conduct
 description: 
-priority: 10
+priority: 9
 invisible: true
 ---
 
