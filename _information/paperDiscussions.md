@@ -12,16 +12,16 @@ invisible: false
 
 The dissemination and discussion of the newest state-of-the-art
 research in robotics is the most important role of RSS. We therefore
-let *live discussion sessions of all accepted papers* take the central
+let **live discussion sessions of all accepted papers** take the central
 part of the RSS virtual program.
 
 The goal of these discussion sessions is to enable a free and open
-discussion round and exchange - in analogy to *poster sessions* at
+discussion round and exchange - in analogy to **poster sessions** at
 previous RSS conferences. The attendees, rather that only passively
 consuming videos, will want to actively engange and discuss their
 questions.
 
-Comments on how you may provide *content for your discussion sessions*:
+Comments on how you may provide **content for your discussion sessions**:
 
 * You have all freedom to hold your discussion sessions as you like!
   This kind of sessions is fully novel at virtual conferences -- be
