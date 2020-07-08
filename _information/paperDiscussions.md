@@ -6,8 +6,40 @@ priority: 9
 invisible: false
 ---
 
-<b>The most urgent next step right now is the setup of zoom
-meetings for all -- please see below.</b>
+<center><b>URGENTLY: Please setup your zoom user accounts -- see below.</b></center>
+
+## Guide for your discussion session
+
+The dissemination and discussion of the newest state-of-the-art
+research in robotics is the most important role of RSS. We therefore
+let *live discussion sessions of all accepted papers* take the central
+part of the RSS virtual program.
+
+The goal of these discussion sessions is to enable a free and open
+discussion round and exchange - in analogy to *poster sessions* at
+previous RSS conferences. The attendees, rather that only passively
+consuming videos, will want to actively engange and discuss their
+questions.
+
+Comments on how you may provide *content for your discussion sessions*:
+
+* You have all freedom to hold your discussion sessions as you like!
+  This kind of sessions is fully novel at virtual conferences -- be
+  creative to make the most of this opportunity, and make it as
+  engaging as possible.
+* You have already prepared substantial material: Your paper,
+  supplementary video, and slides that you used for your pre-recorded
+  presentation. This might typically be enough material and there is
+  no need to prepare much more. An option may be to add just a few
+  more technical slides (equations) as backup if people have specific
+  questions.
+* As at a poster session, you should try to engage people entering
+  your meeting in a direct conversation, and frequently ask if they
+  have specific questions. From time to time you might offer to go
+  briefly through your default set of slides, but always encouraging
+  interrupting questions.
+
+## Technical setup
 
 ### Checking that your session information and zoom meeting is readily setup before July 14
 
@@ -16,10 +48,10 @@ Log into our
 search for your session (In the Sessions section, search for your
 name/title, or choose filter 'Track Papers'.)
 
-First check the general description and embedded pre-recorded talk. At
-the bottom of the description you should also find the full zoom link,
-which should be the same send to you by email when we scheduled your
-meeting. (You could also retrieve it by logging into zoom.us with the
+First check the general description and embedded pre-recorded
+talk. (AFTER JULY 10, WHEN WE'RE FINISHED SETTING UP THE ZOOM
+MEETINGS:) In the description you should also find the full zoom
+link. (You could also retrieve it by logging into zoom.us with the
 Email associated to our RSS zoom account.)
 
 Once your session is activated, that same zoom link should also be
@@ -30,8 +62,8 @@ behind the embedded zoom window.
 
 We recommend that you start your zoom meeting some minutes before the
 live paper discussion sessions. And we recommend that -- unlike the
-reset of the conference -- you use a desktop client application to
-start you zoom session directly using the zoom link, and your zoom
+rest of the conference -- you use a desktop client application to
+start your zoom session directly using the zoom link, and your zoom
 user email. (You can start the session also directly from within
 pheedloop, but the desktop client might give more functionality.)
 

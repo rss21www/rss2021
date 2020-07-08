@@ -100,7 +100,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">14:00 - 15:00 UTC</td>
     <td>
-      <b>Inclusion@RSS hosts: Future of Robotics Panel</b>
+      <b><a href="https://sites.google.com/view/inclusion-2020">Inclusion@RSS hosts: Future of Robotics Panel</a></b>
       <br/>Moderators: Torrie Edwards, Marwa ElDiwiny
     </td>
   </tr>
