@@ -3,7 +3,7 @@ layout: page
 title: RSS 2020 Code of Conduct
 description: 
 priority: 9
-invisible: true
+invisible: false
 ---
 
 Robotics: Science and Systems 2020 is a space for exchanging ideas,
@@ -14,7 +14,7 @@ discourse that creates a safe and productive environment for everyone.
 
 RSS 2020 is committed to ensuring all participants have a positive
 experience at the virtual conference, and will not tolerate any
-harassment, discremination, personal attacks, disruption, or
+harassment, discrimination, personal attacks, disruption, or
 bullying. Participants who are asked to stop such behavior are
 expected to do so immediately. RSS 2020 may take any action in
 response to inappropriate behavior including: warning the offender,
