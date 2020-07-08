@@ -40,7 +40,7 @@ Workshops will take place July 12 and 13, 2020. They are generally scheduled to 
     {% for workshop in site.data.workshops %}
     {% if workshop.date contains day %}
 
-	{% if workshop.external_id == 'WS1-1' %}
+	{% if workshop.external_id == 'WS1-1' or workshop.external_id == 'WS1-7' %}
        <tr>
       <td> <s> {{ workshop.external_id }} </s></td>
       <td> <s>
