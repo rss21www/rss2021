@@ -126,7 +126,7 @@ Certifiable algorithms and real-time high-level understanding are key enablers f
         Jeannette Bohg
 	</a>
 	<br>
-	<i><span style="font-weight:normal">Standford University </span></i>
+	<i><span style="font-weight:normal">Stanford University </span></i>
 	<br/>
 	<b>July 16, 17:00 UTC</b>
 </th>
