@@ -26,7 +26,21 @@ awardees in Eastern time zones will be held on the following day.
 	<b>July 14, 18:30 UTC</b>
 </th>
 <th>
-	<b>Biography:</b>
+
+	<b>Title:</b>
+	<p style="text-align:justify; font-weight:normal;">
+Perspectives on Machine Learning for Robotics
+</p>
+
+	<b>Abstract:</b>
+	<p style="text-align:justify; font-weight:normal;">
+	Recent advances in machine learning are leading to new tools for designing intelligent robots: functions relied on to govern a robot's behavior can be learned from a robot's interaction with its environment rather than hand-designed by an engineer. Many machine learning methods assume little prior knowledge and are extremely flexible, they can model almost anything! But, this flexibility comes at a cost. The same algorithms are often notoriously data hungry and computationally expensive, two problems that can be debilitating for robotics. 
+
+In this talk I’ll discuss how machine learning can be combined with prior knowledge to build effective solutions to robotics problems. I’ll start by introducing an online learning perspective on robot adaptation that unifies well-known algorithms and suggests new approaches. Along the way, I'll focus on the use of simulation and expert advice to augment learning. I’ll discuss how imperfect models can be leveraged to rapidly update simple control policies and imitation can accelerate reinforcement learning. I will also show how we have applied some of these ideas to an autonomous off-road racing task that requires impressive sensing, speed, and agility to complete.
+</p>
+
+
+<b>Biography:</b>
 	<p style="text-align:justify; font-weight:normal;">
 	
 Byron Boots is an Associate Professor in the Paul G. Allen School of
