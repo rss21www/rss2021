@@ -54,12 +54,14 @@ invisible: false
     <th>Paper ID</th>
     <th>Title</th>
     <th>Authors</th>
+    <th>Virtual Session Link</th>
   </tr>
- {% for paper in site.data.rss2020_papers %}
+ {% for paper in site.data.CameraReadyIntegration %}
  <tr>
-    <td width="8%" height="100px">{{paper.PaperOrder }}</td>
-    <td width="40%" height="100px" > <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperOrder}}/">{{paper.PaperTitle}}</a></td>
-    <td width="40%" height="100px">{{paper.AuthorNames}}</td>
+    <td width="8%" height="100px">{{paper.PaperId }}</td>
+    <td width="30%" height="100px" > <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperOrder}}/">{{paper.PaperTitle}}</a></td>
+    <td width="30%" height="100px">{{paper.AuthorNames}}</td>
+    <td width="20%" height="100px"><a href="{{paper.deeplink}}/">Virtual Session #{{paper.PaperSession}}</a></td>
   </tr>
 {% endfor %}
 </table>
