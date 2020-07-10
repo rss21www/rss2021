@@ -60,7 +60,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
 	  <a href="http://www.roboticsproceedings.org/rss16/p{{paper.PaperIdZeros}}.pdf" title="pdf" style="color:#4040a0;">[pdf]</a>
 	  <a href="https://www.youtube.com/watch?v={{paper.YouTube}}" title="Pre-recorded Presentation on Youtube" style="color:#4040a0;">[talk]</a>
 	  -->
-	  <a href="{{paper.deeplink}}" title="Pheedloop Virtual Session" style="color:#4040a0;">[session]</a>
+	  <a href="{{paper.deeplink}}" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
 	  <br/>
       {% endif %}
 	  {% endfor %}
@@ -121,7 +121,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
 	  <a href="http://www.roboticsproceedings.org/rss16/p{{paper.PaperIdZeros}}.pdf" title="pdf" style="color:#4040a0;">[pdf]</a>
 	  <a href="https://www.youtube.com/watch?v={{paper.YouTube}}" title="Pre-recorded Presentation on Youtube" style="color:#4040a0;">[talk]</a>
 	  -->
-	  <a href="{{paper.deeplink}}" title="Pheedloop Virtual Session" style="color:#4040a0;">[session]</a>
+	  <a href="{{paper.deeplink}}" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
 	  <br/>
       {% endif %}
 	  {% endfor %}
@@ -183,7 +183,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
 	  <a href="http://www.roboticsproceedings.org/rss16/p{{paper.PaperIdZeros}}.pdf" title="pdf" style="color:#4040a0;">[pdf]</a>
 	  <a href="https://www.youtube.com/watch?v={{paper.YouTube}}" title="Pre-recorded Presentation on Youtube" style="color:#4040a0;">[talk]</a>
 	  -->
-	  <a href="{{paper.deeplink}}" title="Pheedloop Virtual Session" style="color:#4040a0;">[session]</a>
+	  <a href="{{paper.deeplink}}" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
 	  <br/>
       {% endif %}
 	  {% endfor %}
