@@ -10,11 +10,10 @@ invisible: false
 hosts all live events, allows users to flexibly join workshops and
 paper discussion sessions, interact with each other and sponsors, and
 manages registration.
-* All [**accepted papers with pre-recorded presentations**]({{ site.baseurl
-}}/program/papers/) are now available.
+* All [**accepted papers with pre-recorded presentations**]({{site.baseurl}}/program/papers/) are now available.
 * Our [**RSS youtube channel**](https://www.youtube.com/channel/UCeEbAUGjtBlzmqWO5u6VeGg) hosts all pre-recorded presentations, and will host recordings of the
 live plenary sessions.
-* Please find the [**workshop program**]({{ site.baseurl }}/program/workshops/) separately.
+* Please find the [**workshop program**]({{site.baseurl}}/program/workshops/) separately.
 
 ### Overview
 
@@ -40,7 +39,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
 
 <table class="table table-striped table-program">
   <tr>
-    <td width="140px">14:15 - 15:00 UTC</td>
+    <td width="140px">14:30 - 15:00 UTC</td>
     <td>
       <b>Welcome & Opening</b>
       <br/>Marc Toussaint, Jens Kober, Antonio Bicchi, Hadas Kress-Gazit
@@ -57,8 +56,11 @@ All times below are given in **Coordinated Universal Time (UTC)**.
       {% if tmp < 35 %}
 	  #{{tmp}}
 	  <a href="{{site.baseurl}}/program/papers/{{paper.PaperId}}/" title="paper details">{{paper.PaperTitle}}</a>
+	  <!--
 	  <a href="http://www.roboticsproceedings.org/rss16/p{{paper.PaperIdZeros}}.pdf" title="pdf" style="color:#4040a0;">[pdf]</a>
 	  <a href="https://www.youtube.com/watch?v={{paper.YouTube}}" title="Pre-recorded Presentation on Youtube" style="color:#4040a0;">[talk]</a>
+	  -->
+	  <a href="{{paper.deeplink}}" title="Pheedloop Virtual Session" style="color:#4040a0;">[session]</a>
 	  <br/>
       {% endif %}
 	  {% endfor %}
@@ -68,7 +70,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">17:00 - 17:45 UTC</td>
     <td>
-      <b>Test of Time Award Talk + Q&A</b>
+      <b><a href="{{site.baseurl}}/program/testoftimeaward/">Test of Time Award Talk + Q&A</a></b>
       <br/>Speakers: Frank Dellaert, Michael Kaess
       <br/>Moderator: Marc Toussaint
 	  <br/>Title: <i>From Square Root SAM to GTSAM: Factor Graphs in Robotics</i>
@@ -85,7 +87,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">18:30 - 19:15 UTC</td>
     <td>
-      <b>Early Career Award Keynote + Q&A</b>
+      <b><a href="{{site.baseurl}}/program/careerawards/">Early Career Award Keynote + Q&A</a></b>
       <br/>Speaker: Byron Boots
       <br/>Moderator: Marco Pavone
     </td>
@@ -115,8 +117,11 @@ All times below are given in **Coordinated Universal Time (UTC)**.
       {% if tmp >= 35 and tmp < 70 %}
 	  #{{tmp}}
 	  <a href="{{site.baseurl}}/program/papers/{{paper.PaperId}}/" title="paper details">{{paper.PaperTitle}}</a>
+	  <!--
 	  <a href="http://www.roboticsproceedings.org/rss16/p{{paper.PaperIdZeros}}.pdf" title="pdf" style="color:#4040a0;">[pdf]</a>
 	  <a href="https://www.youtube.com/watch?v={{paper.YouTube}}" title="Pre-recorded Presentation on Youtube" style="color:#4040a0;">[talk]</a>
+	  -->
+	  <a href="{{paper.deeplink}}" title="Pheedloop Virtual Session" style="color:#4040a0;">[session]</a>
 	  <br/>
       {% endif %}
 	  {% endfor %}
@@ -142,7 +147,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">18:30 - 19:15 UTC</td>
     <td>
-      <b>Early Career Award Keynote + Q&A</b>
+      <b><a href="{{site.baseurl}}/program/careerawards/">Early Career Award Keynote + Q&A</a></b>
       <br/>Speaker: Luca Carlone
       <br/>Moderator: Angela Schoellig
   <br/>Title: <i>The Future of Robot Perception: Certifiable Algorithms and Real-time High-level Understanding</i>
@@ -174,8 +179,11 @@ All times below are given in **Coordinated Universal Time (UTC)**.
       {% if tmp >= 70 %}
 	  #{{tmp}}
 	  <a href="{{site.baseurl}}/program/papers/{{paper.PaperId}}/" title="paper details">{{paper.PaperTitle}}</a>
+	  <!--
 	  <a href="http://www.roboticsproceedings.org/rss16/p{{paper.PaperIdZeros}}.pdf" title="pdf" style="color:#4040a0;">[pdf]</a>
 	  <a href="https://www.youtube.com/watch?v={{paper.YouTube}}" title="Pre-recorded Presentation on Youtube" style="color:#4040a0;">[talk]</a>
+	  -->
+	  <a href="{{paper.deeplink}}" title="Pheedloop Virtual Session" style="color:#4040a0;">[session]</a>
 	  <br/>
       {% endif %}
 	  {% endfor %}
@@ -185,7 +193,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">17:00 - 17:45 UTC</td>
     <td>
-      <b>Early Career Award Keynote + Q&A</b>
+      <b><a href="{{site.baseurl}}/program/careerawards/">Early Career Award Keynote + Q&A</a></b>
       <br/>Speaker: Jeannette Bohg
       <br/>Moderator: Stefanie Tellex
     </td>

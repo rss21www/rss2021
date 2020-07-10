@@ -21,7 +21,7 @@ awardees in Eastern time zones will be held on the following day.
 		Byron Boots
 	</a>
 	<br>
-	<i><span style="font-weight:normal">University of Washington </span></i>
+	<i><span style="font-weight:normal">University of Washington</span></i>
 	<br/>
 	<b>July 14, 18:30 UTC</b>
 </th>
