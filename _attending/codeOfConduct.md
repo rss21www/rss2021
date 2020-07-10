@@ -23,5 +23,5 @@ participation in future conferences, or reporting the incident to the
 offender’s local institution or funding agencies.
 
 If you have concerns about a participant's behavior, please reach out
-to TBD@gmail.com (the exact email will be provided soon). We will
+to <a href="mailto:rss20coc@gmail.com">rss20coc@gmail.com</a>. We will
 respond as soon as possible and within 24 hours.
