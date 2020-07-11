@@ -32,7 +32,7 @@ part of the RSS virtual program.
 
 The goal of these discussion sessions is to enable a free and open
 discussion round and exchange - in analogy to **poster sessions** at
-previous RSS conferences. The attendees, rather that only passively
+previous RSS conferences. The attendees, rather than only passively
 consuming videos, will want to actively engange and discuss their
 questions.
 

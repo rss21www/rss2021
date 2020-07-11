@@ -33,6 +33,16 @@ live plenary sessions.
 
 All times below are given in **Coordinated Universal Time (UTC)**.
 
+### Additional live Q&A sessions in Eastern time zones on the following day
+
+All **plenary sessions will be recorded** and made freely available on
+youtube. For those that cannot join the talks live, they can watch them the
+next day and join a live Q&A session with the speakers on the
+following day. This concerns the Test of Time talk (ToT), the three
+Early Career Award talks (EC1-3), and the Keynote talk.
+
+
+
 <a name="tue">&nbsp;</a>
 
 ### Tuesday, July 14

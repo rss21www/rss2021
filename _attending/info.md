@@ -10,18 +10,29 @@ invisible: false
 
 <br/>
 
-The virtual conference will be held on
-[**https://pheedloop.com/rss2020/virtual/**](https://pheedloop.com/rss2020/virtual/). When
-attending the conference, please respect the
-[**RSS 2020 Code of Conduct**](../codeOfConduct/). Here we provide general
-help for attendees:
+* The virtual conference will be held on
+[**https://pheedloop.com/rss2020/virtual/**](https://pheedloop.com/rss2020/virtual/).
+* When attending the conference, please respect the
+[**RSS 2020 Code of Conduct**](../codeOfConduct/).
+* Help & Technical support is provided at the **Help Desk Exhibit** on the virtual platform.
 
-* Getting support during the conference
-* Technical Help (e.g., on browser, and avoiding CAPTCHAs)
 
-## Support during the conference
+## The Paper Discussion Sessions
 
-We will setup a live chat for you to get support during the conference. More information will follow soon.
+The dissemination and discussion of the newest state-of-the-art
+research in robotics is the most important role of RSS. We therefore
+let live discussion sessions of all accepted papers take the central
+part of the RSS virtual program.
+
+The goal of these discussion sessions is to enable a free and open
+discussion round and exchange - in analogy to **poster sessions** at
+previous RSS conferences. Rather than only passively consuming videos/talks,
+you should actively engange and ask questions.
+
+During the 2 hour sessions you might want to alternate between
+* Browsing the accepted papers, watching their pre-recorded presentations
+* Joining the live discussion sessions and directly ask the authors questions.
+
 
 ## Technical Help
 
