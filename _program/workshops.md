@@ -31,9 +31,7 @@ Workshops will take place July 12 and 13, 2020. They are generally scheduled to 
       <th width="15%" align="center">WS</th>
       <th width="36%">Title</th>
       <th width="30%">Organizers</th>
-{% comment %}
-      <th width="20%">Full/Half Day</th>
-{% endcomment %}
+      <th width="20%">Virtual Session Link</th>
     </tr>
   </thead>
   <tbody>
@@ -53,6 +51,9 @@ Workshops will take place July 12 and 13, 2020. They are generally scheduled to 
         {{ workshop.organizers | replace: ',', '<br/>' }}
  	</s>
       </td>
+	<td>
+        <s> N/A </s>
+	</td>
      
           </tr>
     
@@ -67,9 +68,10 @@ Workshops will take place July 12 and 13, 2020. They are generally scheduled to 
       <td>
         {{ workshop.organizers | replace: ',', '<br/>' }}
       </td>     
-{% comment %}
-<td> {{ workshop.day }} </td>
-{% endcomment %} 
+
+<td> <a href="{{ workshop.pheedloop }}">
+          [Session]
+        </a> </td>
     </tr>
 	{% endif %}
     {% endif %}
