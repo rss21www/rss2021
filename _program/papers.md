@@ -59,7 +59,7 @@ invisible: false
  {% for paper in site.data.CameraReadyIntegration %}
  <tr>
     <td width="8%" height="100px">{{paper.PaperId }}</td>
-    <td width="30%" height="100px" > <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperOrder}}/">{{paper.PaperTitle}}</a></td>
+    <td width="30%" height="100px" > <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperId}}/">{{paper.PaperTitle}}</a></td>
     <td width="30%" height="100px">{{paper.AuthorNames}}</td>
     <td width="20%" height="100px"><a href="{{paper.deeplink}}/">Virtual Session #{{paper.PaperSession}}</a></td>
   </tr>

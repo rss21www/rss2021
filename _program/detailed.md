@@ -41,7 +41,8 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">14:30 - 15:00 UTC</td>
     <td>
-      <b>Welcome & Opening</b>
+      <b>Welcome & Opening</b> <a href="https://pheedloop.com/rss2020/virtual/#session_EykIMu" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
+
       <br/>Marc Toussaint, Jens Kober, Antonio Bicchi, Hadas Kress-Gazit
     </td>
   </tr>
@@ -70,7 +71,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">17:00 - 17:45 UTC</td>
     <td>
-      <b><a href="{{site.baseurl}}/program/testoftimeaward/">Test of Time Award Talk + Q&A</a></b>
+      <b><a href="{{site.baseurl}}/program/testoftimeaward/">Test of Time Award Talk + Q&A</a></b> <a href="https://pheedloop.com/rss2020/virtual/#session_fAlqAe" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Speakers: Frank Dellaert, Michael Kaess
       <br/>Moderator: Marc Toussaint
 	  <br/>Title: <i>From Square Root SAM to GTSAM: Factor Graphs in Robotics</i>
@@ -79,7 +80,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">17:45 - 18:15 UTC</td>
     <td>
-      <b>Test of Time Pabel Debate</b>
+      <b>Test of Time Panel Debate</b> <a href="https://pheedloop.com/rss2020/virtual/#session_yIjewU" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Panelists: Frank Dellaert, Michael Kaess, Danica Kragic, Gaurav Sukhatme
 	  <br/>Moderator: Marc Toussaint
     </td>
@@ -87,7 +88,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">18:30 - 19:15 UTC</td>
     <td>
-      <b><a href="{{site.baseurl}}/program/careerawards/">Early Career Award Keynote + Q&A</a></b>
+      <b><a href="{{site.baseurl}}/program/careerawards/">Early Career Award Keynote + Q&A</a></b> <a href="https://pheedloop.com/rss2020/virtual/#session_uCoRvD" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Speaker: Byron Boots
       <br/>Moderator: Marco Pavone
     </td>
@@ -102,7 +103,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">14:00 - 15:00 UTC</td>
     <td>
-      <b><a href="https://sites.google.com/view/inclusion-2020">Inclusion@RSS hosts: Future of Robotics Panel</a></b>
+      <b><a href="https://sites.google.com/view/inclusion-2020">Inclusion@RSS hosts: Future of Robotics Panel</a></b> <a href="https://pheedloop.com/rss2020/virtual/#meetup_EXH4762FMEQSK7AXN" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Moderators: Matthew Johnson-Roberson
     </td>
   </tr>
@@ -131,7 +132,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">17:00 - 18:00 UTC</td>
     <td>
-      <b>Keynote + Q&A</b>
+      <b>Keynote + Q&A</b> <a href="https://pheedloop.com/rss2020/virtual/#session_JKGGgV" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Speaker: Josh Tenenbaum
       <br/>Moderator: Marc Toussaint
 	  <br/>Title: <i>It's all in your head: Intuitive physics, planning, and problem-solving in brains, minds and machines</i>
@@ -147,7 +148,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">18:30 - 19:15 UTC</td>
     <td>
-      <b><a href="{{site.baseurl}}/program/careerawards/">Early Career Award Keynote + Q&A</a></b>
+      <b><a href="{{site.baseurl}}/program/careerawards/">Early Career Award Keynote + Q&A</a></b> <a href="https://pheedloop.com/rss2020/virtual/#session_EIhCLO" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Speaker: Luca Carlone
       <br/>Moderator: Angela Schoellig
   <br/>Title: <i>The Future of Robot Perception: Certifiable Algorithms and Real-time High-level Understanding</i>
@@ -164,7 +165,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">14:15 - 15:00 UTC</td>
     <td>
-      <b>Discussion & Town Hall Meeting</b>
+      <b>Discussion & Town Hall Meeting</b> <a href="https://pheedloop.com/rss2020/virtual/#session_VbWoLC" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Hadas Kress-Gazit, Antonio Bicchi, Marc Toussaint
     </td>
   </tr>
@@ -193,7 +194,7 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">17:00 - 17:45 UTC</td>
     <td>
-      <b><a href="{{site.baseurl}}/program/careerawards/">Early Career Award Keynote + Q&A</a></b>
+      <b><a href="{{site.baseurl}}/program/careerawards/">Early Career Award Keynote + Q&A</a></b> <a href="https://pheedloop.com/rss2020/virtual/#session_NgJTmi" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Speaker: Jeannette Bohg
       <br/>Moderator: Stefanie Tellex
     </td>
@@ -201,7 +202,8 @@ All times below are given in **Coordinated Universal Time (UTC)**.
   <tr>
     <td width="140px">18:00 - 18:45 UTC</td>
     <td>
-      <b>Paper Awards & Farewell</b>
+      <b>Paper Awards & Farewell</b> <a href="https://pheedloop.com/rss2020/virtual/#session_kaLhOW" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
+
       <br/>TBA
     </td>
   </tr>
