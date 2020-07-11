@@ -14,8 +14,10 @@ manages registration.
 * Our [**RSS youtube channel**](https://www.youtube.com/channel/UCeEbAUGjtBlzmqWO5u6VeGg) hosts all pre-recorded presentations, and will host recordings of the
 live plenary sessions.
 * Please find the [**workshop program**]({{site.baseurl}}/program/workshops/) separately.
+* The schedule is also available as [**shared Google Calendar**](https://calendar.google.com/calendar?cid=dDBoN2ltZGx2YnNyYmRocnYxZjgwYTdhcThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) and its [**ical link**](https://calendar.google.com/calendar/ical/t0h7imdlvbsrbdhrv1f80a7aq8%40group.calendar.google.com/public/basic.ics).
 
 ### Overview
+
 
 <img src="{{ site.baseurl }}/images/schedule-crop.jpg"
        alt="Virtual Event Schedule" width = "700" /> 
@@ -214,7 +216,7 @@ Early Career Award talks (EC1-3), and the Keynote talk.
     <td>
       <b>Paper Awards & Farewell</b> <a href="https://pheedloop.com/rss2020/virtual/#session_kaLhOW" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
 
-      <br/>TBA
+      <br/>Tim Barfoot, Marc Toussaint
     </td>
   </tr>
 </table>
