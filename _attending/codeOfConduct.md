@@ -23,5 +23,5 @@ participation in future conferences, or reporting the incident to the
 offender’s local institution or funding agencies.
 
 If you have concerns about a participant's behavior, please reach out
-to <a href="mailto:rss20hotline@gmail.com">rss20hotline@gmail.com</a>. We will
+to <a href="mailto:rss20hotline@gmail.com">rss20hotline@gmail.com</a> or contact the virtual Help Desk on the conference platform. We will
 respond as soon as possible and within 24 hours.
