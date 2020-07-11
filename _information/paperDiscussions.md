@@ -6,7 +6,22 @@ priority: 9
 invisible: false
 ---
 
-<center><b>URGENTLY: Please setup your zoom user accounts -- see below.</b></center>
+*Thank you all for signing into zoom with us. All sessions are now setup!*
+
+You can check your zoom session setup as follows:
+* On the pheedloop platform, navigate to your paper discussion
+  session. At the very bottom of the Description you will find the
+  full zoom info (full link, ID, and passwd). The same details will be
+  used to enable the direct zoom window at the top on the day of your
+  presentation.
+* Log into https://zoom.us/ with your RSS zoom user account (using
+  exactly the Email address used for this Email). You should see your
+  scheduled meeting with the same zoom info. (Please do not change any
+  settings!)
+* At the time of your paper discussion, please log into
+  https://zoom.us/ with your RSS zoom user account (or equivalently
+  sign in with your desktop client) and start hosting your zoom
+  meeting -- you then have full control.
 
 ## Guide for your discussion session
 
@@ -48,11 +63,11 @@ Log into our
 search for your session (In the Sessions section, search for your
 name/title, or choose filter 'Track Papers'.)
 
-First check the general description and embedded pre-recorded
-talk. (AFTER JULY 10, WHEN WE'RE FINISHED SETTING UP THE ZOOM
-MEETINGS:) In the description you should also find the full zoom
-link. (You could also retrieve it by logging into zoom.us with the
-Email associated to our RSS zoom account.)
+First check the general description and embedded pre-recorded talk. At
+the very botton of the Description you should also find the full zoom
+information (link, ID, and passwd). (You could also retrieve and match
+it by logging into zoom.us with the Email associated to our RSS zoom
+account.)
 
 Once your session is activated, that same zoom link should also be
 behind the embedded zoom window.
@@ -64,10 +79,14 @@ We recommend that you start your zoom meeting some minutes before the
 live paper discussion sessions. And we recommend that -- unlike the
 rest of the conference -- you use a desktop client application to
 start your zoom session directly using the zoom link, and your zoom
-user email. (You can start the session also directly from within
-pheedloop, but the desktop client might give more functionality.)
+user email.
 
-You'll have to start it as host at 15:00 UTC on the day of your
+Please log into https://zoom.us/ with your RSS zoom user account (or
+equivalently sign in with your desktop client) and start hosting your
+zoom meeting -- you then have full control.
+
+
+You'll have to start it as host at latest 15:00 UTC on the day of your
 discussion session.
 
 
