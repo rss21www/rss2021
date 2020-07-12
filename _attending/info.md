@@ -14,7 +14,7 @@ invisible: false
 [**https://pheedloop.com/rss2020/virtual/**](https://pheedloop.com/rss2020/virtual/).
 * When attending the conference, please respect the
 [**RSS 2020 Code of Conduct**](../codeOfConduct/).
-* Help & Technical support is provided at the **Help Desk Exhibit** on the virtual platform.
+* Help & Technical support is provided at the **Help Desk Meetup** on the virtual platform.
 
 
 ## The Paper Discussion Sessions
