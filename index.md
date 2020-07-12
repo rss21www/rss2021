@@ -10,6 +10,7 @@ July 12-16, 2020</h1>
 
 ## News and Updates
 
+* [**Information for Conference Attendees**](attending/info/) are available
 * **[Registration](attending/registration/)** is open!
 * The [**Keynote Talk**](program/keynote/) is by Josh Tenenbaum
 * The [**detailed program**](program/detailed/) is available
