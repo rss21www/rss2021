@@ -72,3 +72,9 @@ window, it takes so much space that you cannot see anything anymore
 and cannot close it anymore - you're stuck. (You can re-click the
 session, of course.)
 
+### Zoom polls don't work in the web client
+
+Polls within Zoom unfortunately don't work in the Zoom web client 
+(i.e., the Zoom sessions embedded in Pheedloop). If a workshop uses
+that feature, please use the direct Zoom link and the Zoom desktop 
+client or mobile app.
