@@ -15,6 +15,8 @@ invisible: false
 * When attending the conference, please respect the
 [**RSS 2020 Code of Conduct**](../codeOfConduct/).
 * Help & Technical support is provided at the **Help Desk Meetup** on the virtual platform.
+* **Best experience with zoom sessions**: Try to log into *some* zoom account in a separate brower tab. This will generate some cookies that might avoid you having to enter credentials and CAPTCHAs every time you switch between sessions.
+
 
 
 ## The Paper Discussion Sessions
