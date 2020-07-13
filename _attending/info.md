@@ -78,3 +78,35 @@ Polls within Zoom unfortunately don't work in the Zoom web client
 (i.e., the Zoom sessions embedded in Pheedloop). If a workshop uses
 that feature, please use the direct Zoom link and the Zoom desktop 
 client or mobile app.
+
+
+## Complimentary Offer from Now Publishers {#nowPublishers}
+
+*This is a verbatim offer from Now Publishers:*
+
+Dear Robotics: Science and Systems attendees,
+
+Now Publishers is pleased to support Robotics: Science and Systems
+2020 in its efforts to produce a successful virtual conference. We 
+have arranged with the organizers to make relevant content freely 
+available to participants for the duration of the conference, this can 
+be done from the following webpage:
+
+[https://www.nowpublishers.com/Conference/Robotics2020](https://www.nowpublishers.com/Conference/Robotics2020)
+
+To download content, attendees will need a Now Publishers account and
+the following access code: RSS-9507. Once logged in, you will have
+unlimited access to relevant content. This access is available from
+July 12 - 16. The access code will be valid for the full period, but
+you will need to enter it every time you login.
+  
+The journal PDF versions will be available for the duration of the
+conference. Once logged in, navigate to the content of interest and
+you will be able to download the PDF version of issues.
+  
+If attendees would like to contribute to one of our journals, please
+send an e-mail to mark.dejongh@nowpublishers.com.
+
+Best wishes<br>
+Mark de Jongh<br>
+Now Publishers
