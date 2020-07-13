@@ -14,7 +14,7 @@ roboticsconference.org
 Please contact Bill Smart <Bill.Smart@oregonstate.edu> and Hadas Kress-Gazit <hadaskg@cornell.edu> if you are interested in supporting RSS 2020.
 
 
-### RSS Gold Sponsors
+### RSS Gold Sponsor
 
 <div class="text-center" id="ss-patron">
 
@@ -32,7 +32,7 @@ Please contact Bill Smart <Bill.Smart@oregonstate.edu> and Hadas Kress-Gazit <ha
 <tr>
 <td style="width: 20%; text-align: center;">
 <a href="https://www.amazon.science/">
-  <img width="90%" src="{{ site.baseurl }}/images/sponsors/amazon_logo_RGB.png"
+  <img width="80%" src="{{ site.baseurl }}/images/sponsors/amazon_logo_RGB.png"
        alt="Amazon Robotics"/></a>
 </td>
 <td style="width: 20%; text-align: center;">
@@ -61,20 +61,20 @@ Please contact Bill Smart <Bill.Smart@oregonstate.edu> and Hadas Kress-Gazit <ha
 <td width="10%">
 
 <a href="https://waymo.com/">
-  <img width="90%" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
+  <img width="80%" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
        alt="Waymo"/> </a>
 </td>
 
 <td style="width: 10%; text-align: center;">
 <a href="https://www.nvidia.com/en-us/research/">
-  <img width="90%" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
+  <img width="70%" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
        alt="NVDIA"/> </a>
 
 </td>
 
 <td style="width: 10%; text-align: center;">
 <a href="https://robotics.sciencemag.org/">
-  <img width="90%" src="{{ site.baseurl }}/images/sponsors/ScienceRobotics-AAAS stacked color.jpg"
+  <img width="70%" src="{{ site.baseurl }}/images/sponsors/ScienceRobotics-AAAS stacked color.jpg"
        alt="Science Robotics"/> </a>
 </td>
 

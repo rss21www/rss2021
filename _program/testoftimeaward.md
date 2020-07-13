@@ -32,7 +32,7 @@ Awards goes to the pair of papers:
 
 ### Award Keynote
 
-Please joint the awardee's keynote on July 14, 10:00 PT:
+Please joint the awardee's keynote on July 14, 17:00 UTC:
 
 <b>Title: *From Square Root SAM to GTSAM: Factor Graphs in Robotics*</b>
 
