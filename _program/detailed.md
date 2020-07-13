@@ -53,7 +53,7 @@ Early Career Award talks (EC1-3), and the Keynote talk.
   <tr>
     <td width="140px">14:30 - 15:00 UTC</td>
     <td>
-      <b>Welcome & Opening</b> <a href="https://pheedloop.com/rss2020/virtual/#session_EykIMu" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
+      <b>Welcome & Paper Nominations</b> <a href="https://pheedloop.com/rss2020/virtual/#session_EykIMu" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
 
       <br/>Marc Toussaint, Jens Kober, Tim Barfoot, Hadas Kress-Gazit
     </td>
