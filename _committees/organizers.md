@@ -17,12 +17,6 @@ description: Organizing team.
             <a href="http://www.jenskober.de/">Jens Kober</a><br>
             <i>TU Delft</i><br>
             <br>
-            <b>Local Arrangements Chairs</b><br>
-            <a href="https://eecs.oregonstate.edu/people/adams-julie" >Julie A. Adams</a><br>
-            <i>Oregon State University</i><br>
-			<a href="https://mime.oregonstate.edu/people/smart" >Bill Smart</a><br>
-            <i>Oregon State University</i><br>
-            <br>
             <b>Publicity Chair</b><br>
             <a href="https://patricialvesoliveira.com/">Patrícia Alves-Oliveira</a><br>
             <i>ISCTE-IU, INESC-ID, and Cornell University</i><br>
@@ -53,14 +47,37 @@ description: Organizing team.
 	    <a href="http://valentinp.com/">Valentin Peretroukhin</a><br>
             <i>University of Toronto</i><br>
             <br>
-	    <b>Families@RSS Chair</b><br>
-            <a href="TBD">TBD</a><br>
-            <i>TBD</i><br>
-            <br>
             <b>Web Chair</b><br>
             <a href="https://www.rit.edu/directory/jrheee-jamison-heard">Jamison Heard</a><br>
             <i>Rochester Institute of Technology</i><br>
             <br>
+            <b>Student Helpers</b><br>
+Rika	Antonova,
+Andrea	Bajcsy,
+Bart	Bootsma,
+Thais	Campos,
+Carlos	Celemin,
+Georgia 	Chalvatzaki,
+Willem	de Graaf,
+Neel	Doshi,
+Danny	Driess,
+Valentin	Hartmann,
+Rachel 	Holladay,
+Krishna Murthy	Jatavallabhula,
+Shreyas	Kousik,
+Claire	Liang,
+Khushdeep Singh	Mann,
+Joaquim	Ortiz,
+Veranika	Paulava,
+Christian	Pek,
+Karnik	Ram,
+Travers	Rhodes,
+Ingmar	Schubert,
+Manikandasriram	Srinivasan Ramanagopal,
+Wil	Thomason,
+Linda	van der Spaa,
+William	Zhi
+            <br/><br/><br/>
     </div>
    
 </div>
