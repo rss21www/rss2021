@@ -103,6 +103,7 @@ Early Career Award talks (EC1-3), and the Keynote talk.
       <b><a href="{{site.baseurl}}/program/careerawards/">Early Career Award Keynote + Q&A</a></b> <a href="https://pheedloop.com/rss2020/virtual/#session_uCoRvD" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Speaker: Byron Boots
       <br/>Moderator: Marco Pavone
+      <br/>Title: <i>Perspectives on Machine Learning for Robotics </i>
     </td>
   </tr>
 </table>
@@ -147,7 +148,7 @@ Early Career Award talks (EC1-3), and the Keynote talk.
       <b><a href="{{site.baseurl}}/program/keynote/">Keynote + Q&A</a></b> <a href="https://pheedloop.com/rss2020/virtual/#session_JKGGgV" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Speaker: Josh Tenenbaum
       <br/>Moderator: Marc Toussaint
-	  <br/>Title: <i>It's all in your head: Intuitive physics, planning, and problem-solving in brains, minds and machines</i>
+      <br/>Title: <i>It's all in your head: Intuitive physics, planning, and problem-solving in brains, minds and machines</i>
 
     </td>
   </tr>
@@ -163,8 +164,7 @@ Early Career Award talks (EC1-3), and the Keynote talk.
       <b><a href="{{site.baseurl}}/program/careerawards/">Early Career Award Keynote + Q&A</a></b> <a href="https://pheedloop.com/rss2020/virtual/#session_EIhCLO" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Speaker: Luca Carlone
       <br/>Moderator: Angela Schoellig
-  <br/>Title: <i>The Future of Robot Perception: Certifiable Algorithms and Real-time High-level Understanding</i>
-
+      <br/>Title: <i>The Future of Robot Perception: Certifiable Algorithms and Real-time High-level Understanding</i>
     </td>
   </tr>
 </table>
@@ -209,13 +209,13 @@ Early Career Award talks (EC1-3), and the Keynote talk.
       <b><a href="{{site.baseurl}}/program/careerawards/">Early Career Award Keynote + Q&A</a></b> <a href="https://pheedloop.com/rss2020/virtual/#session_NgJTmi" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Speaker: Jeannette Bohg
       <br/>Moderator: Stefanie Tellex
+      <br/>Title: <i>A Tale of Success and Failure in Robotics Grasping and Manipulation</i>
     </td>
   </tr>
   <tr>
     <td width="140px">18:00 - 18:45 UTC</td>
     <td>
       <b>Paper Awards & Farewell</b> <a href="https://pheedloop.com/rss2020/virtual/#session_kaLhOW" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
-
       <br/>Tim Barfoot, Marc Toussaint
     </td>
   </tr>
