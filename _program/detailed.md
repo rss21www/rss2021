@@ -144,7 +144,7 @@ Early Career Award talks (EC1-3), and the Keynote talk.
   <tr>
     <td width="140px">17:00 - 18:00 UTC</td>
     <td>
-      <b>Keynote + Q&A</b> <a href="https://pheedloop.com/rss2020/virtual/#session_JKGGgV" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
+      <b><a href="{{site.baseurl}}/program/keynote/">Keynote + Q&A</a></b> <a href="https://pheedloop.com/rss2020/virtual/#session_JKGGgV" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Speaker: Josh Tenenbaum
       <br/>Moderator: Marc Toussaint
 	  <br/>Title: <i>It's all in your head: Intuitive physics, planning, and problem-solving in brains, minds and machines</i>
