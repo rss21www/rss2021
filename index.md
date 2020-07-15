@@ -10,6 +10,7 @@ July 12-16, 2020</h1>
 
 ## News and Updates
 
+* Recorded [**plenary keynotes are available on youtube**](https://www.youtube.com/channel/UCeEbAUGjtBlzmqWO5u6VeGg/videos) as well as in our pheedloop sessions
 * See the [**PAPER AWARD NOMINEES**](program/awards/)
 * [**Information for Conference Attendees**](attending/info/) are available
 * **[Registration](attending/registration/)** is open!
