@@ -6,6 +6,8 @@ priority: 7
 invisible: false
 ---
 
+[*<center>The keynote slides are available here</center>*]({{site:baseurl}}/docs/keynote-TestOfTime-DellaertKaess.pdf)
+
 RSS 2020 introduces the new **RSS Test of Time Award** given to highest
 impact papers published at RSS (and potentially journal versions
 thereof) from at least ten years ago. Impact may mean that it changed
