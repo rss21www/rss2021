@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Awards
+title: Paper Awards
 description: Award details.
-priority: 10
+priority: 9
 invisible: false
 ---
 
+Congratulations to the following paper nominees! 
 
 ### Best Student Paper Nominees
 

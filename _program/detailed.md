@@ -2,7 +2,7 @@
 layout: page
 title: Detailed Program
 description: Detailed schedule of the program.
-priority: 9
+priority: 10
 invisible: false
 ---
 
@@ -61,7 +61,7 @@ Early Career Award talks (EC1-3), and the Keynote talk.
   <tr>
     <td width="140px">15:00 - 17:00 UTC</td>
     <td>
-      <b>Live Paper Discussions #1-34</b>
+      <b>Live Paper Discussions #1-34 (<a href="../papers/">SEARCH PAPERS BY AUTHOR/TITLE</a>)</b> 
 	  <br/>
 	  <div style="font-size:90%;">
 	  {% for paper in site.data.CameraReadyIntegration %}
@@ -123,7 +123,7 @@ Early Career Award talks (EC1-3), and the Keynote talk.
   <tr>
     <td width="140px">15:00 - 17:00 UTC</td>
     <td>
-      <b>Live Paper Discussions #35-69</b>
+      <b>Live Paper Discussions #35-69 (<a href="../papers/">SEARCH PAPERS BY AUTHOR/TITLE</a>)</b>
 	  <br/>
 	  <div style="font-size:90%;">
 	  {% for paper in site.data.CameraReadyIntegration %}
@@ -184,7 +184,7 @@ Early Career Award talks (EC1-3), and the Keynote talk.
   <tr>
     <td width="140px">15:00 - 17:00 UTC</td>
     <td>
-      <b>Live Paper Discussions #70-103</b>
+      <b>Live Paper Discussions #70-103 (<a href="../papers/">SEARCH PAPERS BY AUTHOR/TITLE</a>)</b>
 	  <br/>
 	  <div style="font-size:90%;">
 	  {% for paper in site.data.CameraReadyIntegration %}
