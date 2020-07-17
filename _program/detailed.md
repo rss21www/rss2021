@@ -116,7 +116,7 @@ Early Career Award talks (EC1-3), and the Keynote talk.
   <tr>
     <td width="140px">14:00 - 15:00 UTC</td>
     <td>
-      <b><a href="https://sites.google.com/view/inclusion-2020">Inclusion@RSS hosts: Future of Robotics Panel</a></b> <a href="https://pheedloop.com/rss2020/virtual/#meetup_EXH4762FMEQSK7AXN" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
+      <b><a href="https://sites.google.com/view/inclusion-2020/program">Inclusion@RSS hosts: Future of Robotics Panel</a></b> <a href="https://pheedloop.com/rss2020/virtual/#meetup_EXH4762FMEQSK7AXN" title="Pheedloop Virtual Session" style="color:#4040a0;" target="_blank">[session]</a>
       <br/>Moderators: Matthew Johnson-Roberson
     </td>
   </tr>

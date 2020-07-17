@@ -12,9 +12,9 @@ July 12-16, 2020</h1>
 
 * Recorded [**plenary keynotes are available on youtube**](https://www.youtube.com/channel/UCeEbAUGjtBlzmqWO5u6VeGg/videos) as well as in our pheedloop sessions
 * See the [**PAPER AWARD NOMINEES**](program/awards/)
-* [**Information for Conference Attendees**](attending/info/) are available
+* [**Information for Conference Attendees**](attending/info/) is available
 * **[Registration](attending/registration/)** is open!
-* The [**Keynote Talk**](program/keynote/) is by Josh Tenenbaum
+* The RSS 2020 [**Keynote**](program/keynote/) is by Josh Tenenbaum
 * The [**detailed program**](program/detailed/) is available
 * The RSS 2020 **[Test of Time Award](program/testoftimeaward/)** goes to paper(s) by Frank Dellaert and Michael Kaess - Congratulations!
 * The RSS 2020 **[Early Career Awards](program/careerawards/)** go to: Byron Boots, Luca Carlone, and Jeannette Bohg - Congratulations!
