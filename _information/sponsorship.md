@@ -43,13 +43,6 @@ Please contact Bill Smart <Bill.Smart@oregonstate.edu> and Hadas Kress-Gazit <ha
 </td>
 
 
-<td style="width: 20%; text-align: center;">
-<a href="https://research.fb.com/">
-  <img width="90%" src="{{ site.baseurl }}/images/sponsors/Facebook-Wordmark-Gray.png"
-       alt="Facebook Research"/> </a>
-</td>
-
-
 </tr>
 
 </table>

@@ -5,8 +5,15 @@ title: Home
 <h1 class="page-title">{{ site.title }}<br>
 July 12-16, 2020</h1>
 
+
+# The conference is now over. Thank you to all of our attendees and sponsors!
+
+
+{% comment %}
+
 [**<center>Join all live events at the virtual conference site https://pheedloop.com/rss2020/virtual/</center>**](https://pheedloop.com/rss2020/virtual/)
 
+{% endcomment %}
 
 ## News and Updates
 
@@ -174,11 +181,7 @@ pages for more detailed information.
 
 <tr>
 
-<td style="width: 30%; text-align: center;">
-<a href="https://research.fb.com/">
-  <img width="90%" src="{{ site.baseurl }}/images/sponsors/Facebook-Wordmark-Gray.png"
-       alt="Facebook Research"/> </a>
-</td>
+
 
 <td style="width: 30%; text-align: center;">
 <a href="https://www.nvidia.com/en-us/research/">
@@ -191,11 +194,8 @@ pages for more detailed information.
 	<a href="https://robotics.sciencemag.org/">
   	<img width="90%" src="{{ site.baseurl }}/images/sponsors/ScienceRobotics-AAAS stacked color.jpg" alt="Science Robotics"/> </a>
 </td>
-</tr>
-<tr>
-<td>
-</td>
-<td>
+
+<td style="width: 30%; text-align: center;">
 <a href="https://waymo.com/">
   <img width="90%" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
        alt="Waymo"/> </a>

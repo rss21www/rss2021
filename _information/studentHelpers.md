@@ -10,10 +10,8 @@ We decided to let authors themselves be the host of their zoom
 meetings. Therefore, student helpers do not need to play that role.
 
 Your general role at the conference (including workshops) is therefore:
-* During and 15mins before all sessions, be logged into our RSS orga
-  slack (here the
-  [invite link](https://join.slack.com/t/rssvirtualorg-cjz9866/shared_invite/zt-fdhopdbq-asCB~X7E2Vy2CfbMnOAJ5g)),
-  as well as the pheedloop platform.
+* During and 15mins before all sessions, be logged into our RSS org
+  slack
 * Whenever you notice issues or get contacted with issues, and you
   cannot resolve them yourself, please post them on our slack. Jens
   and I and the rest of helpers can the try to resolve it.
@@ -26,11 +24,15 @@ Your general role at the conference (including workshops) is therefore:
   discussion sessions - esp at their start - and report if there is
   an issue.
   
+
+{% comment %}
 ### Assignments
 
 Please check our spread sheet:
 
 https://docs.google.com/spreadsheets/d/14VunR0lf70uTf5I7FdOCjwsdQxIbWr04CP1Zutrge3s/edit#gid=0
+
+{% endcomment %}
 
 ### Checking into workshops
 
