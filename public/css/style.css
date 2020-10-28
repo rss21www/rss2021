@@ -11,7 +11,7 @@
 	--osu-orange: #d83f09;
 	--osu-black: #000000;
 	--osu-white: #ffffff;
-    --gen-grey: #3a3946c;
+    --gen-grey: #3a3946;
 }
 
 .header { background-color: var(--gen-grey);}
