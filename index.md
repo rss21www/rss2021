@@ -150,7 +150,7 @@ pages for more detailed information.
     </tbody>
   </table>
 
-  The website of the 2019 RSS conference can be found [here](http://rss2019.informatik.uni-freiburg.de).
+  The website of the 2019 RSS conference can be found [here](http://osurobotics.github.io/rss2020).
 
 
 ### RSS Sponsors
