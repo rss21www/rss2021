@@ -11,9 +11,10 @@
 	--osu-orange: #d83f09;
 	--osu-black: #000000;
 	--osu-white: #ffffff;
+    --gen-grey: #3a3946c;
 }
 
-.header { background-color: var(--osu-orange);}
+.header { background-color: var(--gen-grey);}
 .content { margin-top:-20px; }
 
 h3 {text-align: left;}
