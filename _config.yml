@@ -33,15 +33,15 @@ collections:
     committees:
         output: true
         permalink: /committees/:path/
-#    attending:
-#        output: true
-#        permalink: /attending/:path/
+    attending:
+        output: false
+        permalink: /attending/:path/
 #    program:
 #        output: true
 #        permalink: /program/:path/
-#    information:
-#        output: true
-#        permalink: /information/:path/
+    information:
+        output: true
+        permalink: /information/:path/
 
 defaults:
   -
