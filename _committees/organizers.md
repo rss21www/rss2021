@@ -13,6 +13,10 @@ description: Organizing team.
             <a href="https://www.user.tu-berlin.de/mtoussai/">Marc Toussaint</a><br>
             <i>Technical University of Berlin</i><br>
             <br>
+	    <b>Workshop Chair</b><br>
+            <a href="http://www.cs.utah.edu/~thermans/">Tucker Hermans</a><br>
+            <i>University of Utah</i><br>
+            <br>-
 	    <!--<b>Publication Chair</b><br>
             <a href="http://www.cs.utah.edu/~thermans/">Tucker Hermans</a><br>
             <i>University of Utah</i><br>
