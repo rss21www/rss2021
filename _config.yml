@@ -39,9 +39,9 @@ collections:
 #    program:
 #        output: true
 #        permalink: /program/:path/
-    information:
-        output: true
-        permalink: /information/:path/
+#    information:
+#        output: true
+#        permalink: /information/:path/
 
 defaults:
   -
