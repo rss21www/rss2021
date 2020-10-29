@@ -26,7 +26,7 @@ etc.
     </thead>
     <tbody>
       <tr>
-        <td>March 31st, 2021</td>
+        <td>March 1st, 2021</td>
         <td><a href="https://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
         <td>Paper Submission Deadline</td>
       </tr>
