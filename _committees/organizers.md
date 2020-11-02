@@ -16,12 +16,14 @@ description: Organizing team.
 	    <b>Workshop Chair</b><br>
             <a href="http://www.cs.utah.edu/~thermans/">Tucker Hermans</a><br>
             <i>University of Utah</i><br>
-            <br>-
+            <br>
 	    <!--<b>Publication Chair</b><br>
             <a href="http://www.cs.utah.edu/~thermans/">Tucker Hermans</a><br>
             <i>University of Utah</i><br>
             <br>-->
-	    <b>Inclusion Chair</b><br>
+	    <b>Inclusion Chairs</b><br>
+            <a href="https://www.andrew.cmu.edu/user/amj1/">Aaron Johnson</a><br>
+            <i>Carnegie Mellon University</i><br>
             <a href="https://www.csee.umbc.edu/people/faculty/cynthia-matuszek/">Cynthia Matuszek</a><br>
             <i>University of Maryland, Baltimore County</i><br>
             <br>
