@@ -55,8 +55,7 @@ availability, etc.
     </tbody>
   </table>
 
-#  The website of the 2020 RSS conference can be found [here](http://osurobotics.github.io/rss2020).
-  The website of the 2020 RSS conference can be found [here](/2020).
+The website of the 2020 RSS conference can be found [here](https://roboticsconference.org/2020).
 
 
 {% comment %}
