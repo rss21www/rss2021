@@ -13,8 +13,8 @@ tutorials, and virtual fun! This year, as always, we solicit your best work.
 
 RSS 2021 will be held virtually in the week July 12-16, 2021. We're also
 considering some the potential of localized distal in-person events, but 
-that being contingent on the possibility of safe travel, CoVid-19 vaccines,
-etc.
+that being contingent on the possibility of safe travel, CoVid-19 vaccine
+availability, etc.
 
 ### Timeline
 
