@@ -13,10 +13,11 @@ description: Organizing team.
             <a href="https://www.user.tu-berlin.de/mtoussai/">Marc Toussaint</a><br>
             <i>Technical University of Berlin</i><br>
             <br>
-	    <b>Workshop Chair</b><br>
+	    <b>Workshop Chairs</b><br>
             <a href="http://www.cs.utah.edu/~thermans/">Tucker Hermans</a><br>
             <i>University of Utah</i><br>
-            <br>
+            <a href="http://web.tuat.ac.jp/~venture/">Gentiane Venture</a><br>
+            <i>Tokyo University of Agriculture and Technology</i><br>
 	    <!--<b>Publication Chair</b><br>
             <a href="http://www.cs.utah.edu/~thermans/">Tucker Hermans</a><br>
             <i>University of Utah</i><br>
