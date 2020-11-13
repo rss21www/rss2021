@@ -19,7 +19,7 @@ description: Organizing team.
             <a href="http://www.cs.utah.edu/~thermans/">Tucker Hermans</a><br>
             <i>University of Utah</i><br>
             </td>
-            <td></td>
+            <td style="width:40px;"></td>
             <td>
             <a href="http://web.tuat.ac.jp/~venture/">Gentiane Venture</a><br>
             <i>Tokyo University of Agriculture and Technology</i><br>
@@ -36,7 +36,7 @@ description: Organizing team.
             <a href="https://www.andrew.cmu.edu/user/amj1/">Aaron Johnson</a><br>
             <i>Carnegie Mellon University</i><br>
             </td>
-            <td></td>
+            <td style="width:40px;"></td>
             <td>
             <a href="https://www.csee.umbc.edu/people/faculty/cynthia-matuszek/">Cynthia Matuszek</a><br>
             <i>University of Maryland, Baltimore County</i><br></td>
