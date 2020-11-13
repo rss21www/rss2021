@@ -30,6 +30,7 @@ description: Organizing team.
             <a href="http://www.cs.utah.edu/~thermans/">Tucker Hermans</a><br>
             <i>University of Utah</i><br>
             <br>-->
+            <br>
 	    <b>Inclusion Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
             <td>
