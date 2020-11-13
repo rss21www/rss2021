@@ -14,11 +14,12 @@ description: Organizing team.
             <i>Technical University of Berlin</i><br>
             <br>
 	    <b>Workshop Chairs</b><br>
-            <table><tr>
+            <table style="margin-left:auto;margin-right:auto;"><tr>
             <td>
             <a href="http://www.cs.utah.edu/~thermans/">Tucker Hermans</a><br>
             <i>University of Utah</i><br>
             </td>
+            <td></td>
             <td>
             <a href="http://web.tuat.ac.jp/~venture/">Gentiane Venture</a><br>
             <i>Tokyo University of Agriculture and Technology</i><br>
@@ -30,11 +31,12 @@ description: Organizing team.
             <i>University of Utah</i><br>
             <br>-->
 	    <b>Inclusion Chairs</b><br>
-            <table><tr>
+            <table style="margin-left:auto;margin-right:auto;"><tr>
             <td>
             <a href="https://www.andrew.cmu.edu/user/amj1/">Aaron Johnson</a><br>
             <i>Carnegie Mellon University</i><br>
             </td>
+            <td></td>
             <td>
             <a href="https://www.csee.umbc.edu/people/faculty/cynthia-matuszek/">Cynthia Matuszek</a><br>
             <i>University of Maryland, Baltimore County</i><br></td>
