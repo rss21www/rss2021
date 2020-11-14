@@ -55,9 +55,10 @@ availability, etc.
     </tbody>
   </table>
 
-{% comment
+
+{% comment %}
 The website of the 2020 RSS conference can be found [here](https://roboticsconference.org/2020).
- %}
+{% endcomment %}
 
 The website of the 2020 RSS conference can be found [here](/2020/index.html).
 
